@@ -2,6 +2,19 @@
 #    path: /
 #    controller: App\Controller\DefaultController::index
 
-app_lucky_number:
+catalog_index:
     path: /catalog
     controller: App\Controller\CatalogController::index
+
+shopping_list_index:
+    path: /shoppinglist
+    controller: App\Controller\ShoppingListController::index
+
+shopping_list_create:
+    path: /shoppinglist
+    controller: App\Controller\ShoppingListController::create
+    methods: [POST]
+
+_example:
+    prefix: /_example
+    resource: "@ExampleBundle/Resources/config/routing.yml"

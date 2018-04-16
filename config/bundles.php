@@ -14,5 +14,7 @@ return [
     Symfony\Bundle\DebugBundle\DebugBundle::class => ['dev' => true, 'test' => true],
     Symfony\Bundle\MakerBundle\MakerBundle::class => ['dev' => true],
     Symfony\Bundle\WebServerBundle\WebServerBundle::class => ['dev' => true],
-    Commercetools\Symfony\CtpBundle\CtpBundle::class => ['all' => true]
+    Commercetools\Symfony\CtpBundle\CtpBundle::class => ['all' => true],
+    Commercetools\Symfony\ShoppingListBundle\ShoppingListBundle::class => ['all' => true],
+    Commercetools\Symfony\ExampleBundle\ExampleBundle::class => ['dev' => true],
 ];
