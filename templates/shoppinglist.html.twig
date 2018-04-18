@@ -1,0 +1,62 @@
+{# templates/shoppinglist.html.twig #}
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h3>create shopping list</h3>
+    <form action="{{ path('shopping_list_create') }}" method="post">
+        <div class="form-group">
+            <label for="name">ShoppingList Name</label>
+            <input class="form-control" type="text" id="name" name="_name" value="" />
+
+            <button class="btn btn-default" type="submit">create</button>
+        </div>
+    </form>
+
+    <h3>add lineItem</h3>
+    <form action="{{ path('shopping_list_add_line_item') }}" method="post">
+        <div class="form-group">
+            <label for="name">ShoppingList id</label>
+            <input class="form-control" type="text" name="_shoppingListId" value="" />
+
+            <label for="name">product ID</label>
+            <input class="form-control" type="text" name="_productId" value="" />
+
+            <label for="name">variant ID</label>
+            <input class="form-control" type="text" name="_variantId" value="" />
+
+            <button class="btn btn-default" type="submit">insert</button>
+        </div>
+    </form>
+
+    <h3>remove line item</h3>
+    <form action="{{ path('shopping_list_remove_line_item') }}" method="post">
+        <div class="form-group">
+            <label for="name">ShoppingList id</label>
+            <input class="form-control" type="text" name="_shoppingListId" value="" />
+
+            <label for="name">line item ID</label>
+            <input class="form-control" type="text" name="_lineItemId" value="" />
+
+            <button class="btn btn-default" type="submit">remove</button>
+        </div>
+    </form>
+
+    <h3>chage line item quantity</h3>
+    <form action="{{ path('shopping_list_change_line_item_quantity') }}" method="post">
+        <div class="form-group">
+            <label for="name">ShoppingList id</label>
+            <input class="form-control" type="text" name="_shoppingListId" value="" />
+
+            <label for="name">line item ID</label>
+            <input class="form-control" type="text" name="_lineItemId" value="" />
+
+            <label for="name">line item quantity</label>
+            <input class="form-control" type="text" name="_lineItemQuantity" value="" />
+
+            <button class="btn btn-default" type="submit">change</button>
+        </div>
+    </form>
+
+    <h3>shopping lists</h3>
+    <pre>{{ product }}</pre>
+{% endblock %}
