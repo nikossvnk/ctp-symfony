@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<container xmlns="http://symfony.com/schema/dic/services"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:commercetools="http://commercetools.com/schema/dic/ctp"
+           xsi:schemaLocation="http://commercetools.com/schema/dic/ctp
+        http://commercetools.com/schema/dic/ctp/ctp-1.0.xsd">
+
+<!--<commercetools:commercetools>-->
+    <!--<commercetools:api>-->
+        <!--<commercetools:client name="">-->
+            <!--<commercetools:client-id></commercetools:client-id>-->
+            <!--<commercetools:client-secret></commercetools:client-secret>-->
+            <!--<commercetools:project></commercetools:project>-->
+        <!--</commercetools:client>-->
+    <!--</commercetools:api>-->
+    <!--<commercetools:defaults>-->
+        <!--<commercetools:country></commercetools:country>-->
+        <!--<commercetools:context>-->
+            <!--<commercetools:locale></commercetools:locale>-->
+        <!--</commercetools:context>-->
+    <!--</commercetools:defaults>-->
+<!--</commercetools:commercetools>-->
+    <!--<commercetools:commercetools>-->
+        <!--<commercetools:api>-->
+            <!--<commercetools:default-client>default</commercetools:default-client>-->
+            <!--<commercetools:client name="default">-->
+                <!--<commercetools:client-id>%env(CTP_CLIENT_ID)%</commercetools:client-id>-->
+                <!--<commercetools:client-secret>%env(CTP_CLIENT_SECRET)%</commercetools:client-secret>-->
+                <!--<commercetools:project>%env(CTP_PROJECT)%</commercetools:project>-->
+                <!--<commercetools:scope>manage_project</commercetools:scope>-->
+                <!--<commercetools:oauth-url>https://auth.sphere.io</commercetools:oauth-url>-->
+                <!--<commercetools:api-url>https://api.commercetools.com</commercetools:api-url>-->
+            <!--</commercetools:client>-->
+            <!--<commercetools:client name="other">-->
+                <!--<commercetools:client-id>id</commercetools:client-id>-->
+                <!--<commercetools:client-secret>pass</commercetools:client-secret>-->
+                <!--<commercetools:project>proj</commercetools:project>-->
+            <!--</commercetools:client>-->
+        <!--</commercetools:api>-->
+        <!--<commercetools:defaults>-->
+            <!--<commercetools:country>DE</commercetools:country>-->
+            <!--<commercetools:context>-->
+                <!--<commercetools:locale>en-US</commercetools:locale>-->
+                <!--<commercetools:graceful>true</commercetools:graceful>-->
+            <!--</commercetools:context>-->
+        <!--</commercetools:defaults>-->
+        <!--<commercetools:cache>-->
+            <!--<commercetools:cart>true</commercetools:cart>-->
+            <!--<commercetools:shipping_method>false</commercetools:shipping_method>-->
+        <!--</commercetools:cache>-->
+        <!--<commercetools:project-settings>-->
+            <!--<commercetools:country>de</commercetools:country>-->
+            <!--<commercetools:country>us</commercetools:country>-->
+            <!--<commercetools:currency>eur</commercetools:currency>-->
+            <!--<commercetools:currency>usd</commercetools:currency>-->
+            <!--<commercetools:language>en</commercetools:language>-->
+            <!--<commercetools:language>de</commercetools:language>-->
+            <!--<commercetools:name>proj-1</commercetools:name>-->
+            <!--<commercetools:messages>true</commercetools:messages>-->
+            <!--<commercetools:shipping-rate-input-type>-->
+                <!--<commercetools:type>CartValue</commercetools:type>-->
+            <!--</commercetools:shipping-rate-input-type>-->
+        <!--</commercetools:project-settings>-->
+        <!--<commercetools:fallback-languages>-->
+            <!--<commercetools:language>en</commercetools:language>-->
+        <!--</commercetools:fallback-languages>-->
+        <!--&lt;!&ndash;<commercetools:facets>&ndash;&gt;-->
+            <!--&lt;!&ndash;<commercetools:facet>&ndash;&gt;-->
+                <!--&lt;!&ndash;<commercetools:alias></commercetools:alias>&ndash;&gt;-->
+                <!--&lt;!&ndash;<commercetools:paramName></commercetools:paramName>&ndash;&gt;-->
+                <!--&lt;!&ndash;<commercetools:field></commercetools:field>&ndash;&gt;-->
+                <!--&lt;!&ndash;<commercetools:facetField></commercetools:facetField>&ndash;&gt;-->
+                <!--&lt;!&ndash;<commercetools:filterField></commercetools:filterField>&ndash;&gt;-->
+                <!--&lt;!&ndash;<commercetools:multiSelect></commercetools:multiSelect>&ndash;&gt;-->
+                <!--&lt;!&ndash;<commercetools:hierarchical></commercetools:hierarchical>&ndash;&gt;-->
+                <!--&lt;!&ndash;<commercetools:display></commercetools:display>&ndash;&gt;-->
+                <!--&lt;!&ndash;<commercetools:type></commercetools:type>&ndash;&gt;-->
+                <!--&lt;!&ndash;<commercetools:ranges>&ndash;&gt;-->
+                    <!--&lt;!&ndash;<commercetools:range from="1" to="2"/>&ndash;&gt;-->
+                <!--&lt;!&ndash;</commercetools:ranges>&ndash;&gt;-->
+            <!--&lt;!&ndash;</commercetools:facet>&ndash;&gt;-->
+        <!--&lt;!&ndash;</commercetools:facets>&ndash;&gt;-->
+    <!--</commercetools:commercetools>-->
+
+</container>

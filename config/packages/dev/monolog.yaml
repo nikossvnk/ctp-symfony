@@ -16,4 +16,8 @@ monolog:
         console:
             type:   console
             process_psr_3_messages: false
+            verbosity_levels:
+                        VERBOSITY_VERBOSE: NOTICE
+                        VERBOSITY_VERY_VERBOSE: NOTICE
+                        VERBOSITY_DEBUG: DEBUG
             channels: ["!event", "!doctrine", "!console"]

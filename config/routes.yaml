@@ -2,35 +2,5 @@
 #    path: /
 #    controller: App\Controller\DefaultController::index
 
-catalog_index:
-    path: /catalog
-    controller: App\Controller\CatalogController::index
-
-shopping_list_index:
-    path: /shoppinglist
-    controller: App\Controller\ShoppingListController::index
-    methods: [GET]
-
-shopping_list_create:
-    path: /shoppinglist
-    controller: App\Controller\ShoppingListController::create
-    methods: [POST]
-
-shopping_list_add_line_item:
-    path: /shoppinglist/addlineitem
-    controller: App\Controller\ShoppingListController::addLineItem
-    methods: [POST]
-
-shopping_list_remove_line_item:
-    path: /shoppinglist/removelineitem
-    controller: App\Controller\ShoppingListController::removeLineItem
-    methods: [POST]
-
-shopping_list_change_line_item_quantity:
-    path: /shoppinglist/changelineitemquantity
-    controller: App\Controller\ShoppingListController::changeLineItemQuantity
-    methods: [POST]
-
 _example:
-    prefix: /_example
     resource: "@ExampleBundle/Resources/config/routing.yml"

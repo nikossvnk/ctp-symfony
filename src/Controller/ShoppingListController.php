@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: nsotiropoulos
- * Date: 13/04/2018
- * Time: 15:55
- */
+declare(strict_types=1);
 
 namespace App\Controller;
 
@@ -40,11 +35,6 @@ class ShoppingListController extends Controller
     private $manager;
 
     /**
-     * @var ShoppingListRepository
-     */
-    private $repository;
-
-    /**
      * ShoppingListController constructor.
      */
     public function __construct(Client $client, ShoppingListManager $manager)
@@ -60,21 +50,40 @@ class ShoppingListController extends Controller
         return $this->render('shoppinglist.html.twig', ['product' => var_export($shoppingList->toArray(), true)]);
     }
 
-    public function create(Request $request)
+    public function create(Request $request, UserInterface $user)
     {
-        $this->repository->createShoppingList($request->getLocale(), CustomerReference::ofId($this->getCustomerId()), $request->request->get('_name'));
+        $this->manager->createShoppingList($request->getLocale(), CustomerReference::ofId($user->getId()), $request->request->get('_name'));
 
         return $this->redirectToRoute('shopping_list_index');
     }
 
+//    public function modifyList(Request $request)
+//    {
+//        $update = $this->manager->update($this->manager->getById($request->getLocale(), $request->get('_shoppingListId')));
+//        $update->addLineItem(function(ShoppingListAddLineItemAction $action): ShoppingListAddLineItemAction {
+//            // modify action as needed
+//            return $action;
+//        });
+//        $update->changeName($request->get('name'));
+//        $update->changeKey($request->get('key'));
+//
+//        $update->flush();
+//    }
+
     public function addLineItem(Request $request)
     {
-        $this->manager->addLineItem(
-            $this->manager->getById($request->getLocale(), $request->get('_shoppingListId')),
-            $request->request->get('_productId'),
-            (int)$request->request->get('_variantId'),
-            1
-        );
+        $shoppingList = $this->manager->getById($request->getLocale(), $request->get('_shoppingListId'));
+
+
+        $updateBuilder = $this->manager->update($shoppingList);
+        $updateBuilder->addLineItem(function (ShoppingListAddLineItemAction $action) use($request): ShoppingListAddLineItemAction {
+            $action->setProductId($request->get('_productId'));
+            $action->setVariantId($request->get('_variantId'));
+            $action->setQuantity(1);
+            return $action;
+        });
+
+        $updateBuilder->flush();
 
         return $this->redirectToRoute('shopping_list_index');
     }

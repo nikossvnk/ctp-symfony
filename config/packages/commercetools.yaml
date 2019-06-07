@@ -1,7 +1,87 @@
 commercetools:
   api:
+    default_client: 'default'
     clients:
       default:
         client_id: '%env(CTP_CLIENT_ID)%'
         client_secret: '%env(CTP_CLIENT_SECRET)%'
         project: '%env(CTP_PROJECT)%'
+        scope: 'manage_project'
+        oauth_url: 'https://auth.sphere.io'
+        api_url: 'https://api.commercetools.com'
+      frontend:
+        client_id: 'rqZu09bO03SjWZqzlOoY3e1a'
+        client_secret: '6FlbOXA6PQWIhFeYKJmLwT1DQxa_a2Gz'
+        project: 'test-php-nikos-79'
+        scope: 'manage_my_profile create_anonymous_token view_project_settings manage_my_payments manage_my_shopping_lists view_products manage_my_orders'
+        oauth_url: 'https://auth.sphere.io'
+        api_url: 'https://api.commercetools.com'
+  defaults:
+    country: FR
+    context:
+      locale: en
+      graceful: true
+  cache:
+    cart: true
+    catalog: false
+  project_settings:
+    countries:
+      - de
+      - uk
+    currencies:
+      - eur
+      - aud
+    languages:
+      - en
+      - de
+      - en-US
+      - nan-Hant-TW
+    name: the-medial-project
+    messages: false
+    shipping_rate_input_type:
+      type: CartClassification
+      values:
+        - key: larger
+          label:
+            en: ones
+            gr: ena
+        - key: another
+          label:
+            en: 'goto'
+  facets:
+    - paramName: categories.id
+      facetField: categories.id
+
+
+
+
+#  channels:
+#    warehouse:
+#      roles:
+#        - ProductDistribution
+#        - Primary
+#      name:
+#        en: warehouse
+#      description:
+#        en: 'the best warehouse in the hood'
+#      address:
+#        country: DE
+#        streetName: 'somewhere 25'
+##      custom:
+#      geoLocation:
+#        type: Point
+#        coordinates:
+#          - '23.4562343545'
+#          - '17.2343256633'
+#    acorns:
+#      roles:
+#        - ProductDistribution
+#      name:
+#        en: supplies
+#      description:
+#        en: 'the best supplies in the hood'
+#      address:
+#        country: DE
+#        streetName: 'down the road 30'
+##      custom:
+##      geoLocation:

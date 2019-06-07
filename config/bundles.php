@@ -16,5 +16,11 @@ return [
     Symfony\Bundle\WebServerBundle\WebServerBundle::class => ['dev' => true],
     Commercetools\Symfony\CtpBundle\CtpBundle::class => ['all' => true],
     Commercetools\Symfony\ShoppingListBundle\ShoppingListBundle::class => ['all' => true],
-    Commercetools\Symfony\ExampleBundle\ExampleBundle::class => ['dev' => true],
+    Commercetools\Symfony\CartBundle\CartBundle::class => ['all' => true],
+    Commercetools\Symfony\CustomerBundle\CustomerBundle::class => ['all' => true],
+    Commercetools\Symfony\ReviewBundle\ReviewBundle::class => ['all' => true],
+    Commercetools\Symfony\CatalogBundle\CatalogBundle::class => ['all' => true],
+    Commercetools\Symfony\ExampleBundle\ExampleBundle::class => ['all' => true],
+    Commercetools\Symfony\SetupBundle\SetupBundle::class => ['all' => true],
+    Commercetools\Symfony\StateBundle\StateBundle::class => ['all' => true],
 ];
