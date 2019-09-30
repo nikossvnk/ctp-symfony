@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="MQ.yABS" resname="close">
+        <source>close</source>
+        <target>Schließen</target>
+      </trans-unit>
+      <trans-unit id="cl.tnRr" resname="choose">
+        <source>choose</source>
+        <target>Auswählen</target>
+      </trans-unit>
+      <trans-unit id="TqFAWIF" resname="home">
+        <source>home</source>
+        <target>Home</target>
+      </trans-unit>
+      <trans-unit id="GHiXzgr" resname="more">
+        <source>more</source>
+        <target>Mehr</target>
+      </trans-unit>
+      <trans-unit id="OA6NpNI" resname="messages.pleaseWait">
+        <source>messages.pleaseWait</source>
+        <target>Bitte warten...</target>
+      </trans-unit>
+      <trans-unit id="fk8nm0K" resname="messages.viewYourBagAlert">
+        <source>messages.viewYourBagAlert</source>
+        <target>Warenkorb ansehen</target>
+      </trans-unit>
+      <trans-unit id="MITFNL2" resname="messages.addToWishlistAlert">
+        <source>messages.addToWishlistAlert</source>
+        <target>Auf den Wunschzettel</target>
+      </trans-unit>
+      <trans-unit id="rrLVd0N" resname="messages.requiredField">
+        <source>messages.requiredField</source>
+        <target>Pflichtfeld</target>
+      </trans-unit>
+      <trans-unit id="jkkxKms" resname="common.color">
+        <source>common.color</source>
+        <target>Farbe</target>
+      </trans-unit>
+      <trans-unit id="xAODu8B" resname="common.checkout">
+        <source>common.checkout</source>
+        <target>Checkout</target>
+      </trans-unit>
+      <trans-unit id="fcy2FXX" resname="common.description">
+        <source>common.description</source>
+        <target>Beschreibung</target>
+      </trans-unit>
+      <trans-unit id="ug34vpO" resname="common.price">
+        <source>common.price</source>
+        <target>Price</target>
+      </trans-unit>
+      <trans-unit id="FweYd9Y" resname="common.totalPrice">
+        <source>common.totalPrice</source>
+        <target>Gesamtpreis __totalPrice__</target>
+      </trans-unit>
+      <trans-unit id="YYX8ge_" resname="common.quantity">
+        <source>common.quantity</source>
+        <target>Menge</target>
+      </trans-unit>
+      <trans-unit id="dtxPBX7" resname="common.size">
+        <source>common.size</source>
+        <target>Größe</target>
+      </trans-unit>
+      <trans-unit id="11Kcvhr" resname="common.salesTax">
+        <source>common.salesTax</source>
+        <target>MwSt.</target>
+      </trans-unit>
+      <trans-unit id="E31s56J" resname="common.viewDetails">
+        <source>common.viewDetails</source>
+        <target>Details ansehen</target>
+      </trans-unit>
+      <trans-unit id="QoCJXjL" resname="header.title">
+        <source>header.title</source>
+        <target>Sunrise</target>
+      </trans-unit>
+      <trans-unit id="wJRYAhk" resname="header.stores">
+        <source>header.stores</source>
+        <target>Filiale</target>
+      </trans-unit>
+      <trans-unit id="fDsLp21" resname="header.help">
+        <source>header.help</source>
+        <target>Hilfe</target>
+      </trans-unit>
+      <trans-unit id="q98AZpA" resname="header.callUs">
+        <source>header.callUs</source>
+        <target>Rufen Sie uns auf __phoneNumber__ an</target>
+      </trans-unit>
+      <trans-unit id="hrDDe.6" resname="header.miniCart">
+        <source>header.miniCart</source>
+        <target>Warenkorb</target>
+      </trans-unit>
+      <trans-unit id="fhkhEAk" resname="header.viewBag">
+        <source>header.viewBag</source>
+        <target>Warenkorb ansehen</target>
+      </trans-unit>
+      <trans-unit id="3yPslAU" resname="header.checkout">
+        <source>header.checkout</source>
+        <target>Checkout</target>
+      </trans-unit>
+      <trans-unit id="wE7vp5h" resname="header.search">
+        <source>header.search</source>
+        <target>Suche</target>
+      </trans-unit>
+      <trans-unit id="xGFcefF" resname="header.signIn">
+        <source>header.signIn</source>
+        <target>Log In</target>
+      </trans-unit>
+      <trans-unit id="J4bNmr5" resname="header.signOut">
+        <source>header.signOut</source>
+        <target>Log Out</target>
+      </trans-unit>
+      <trans-unit id="ZaVzLok" resname="header.language">
+        <source>header.language</source>
+        <target>Sprache</target>
+      </trans-unit>
+      <trans-unit id="ChquQVs" resname="header.country">
+        <source>header.country</source>
+        <target>Land</target>
+      </trans-unit>
+      <trans-unit id="_cp6K0s" resname="header.location">
+        <source>header.location</source>
+        <target>Ort</target>
+      </trans-unit>
+      <trans-unit id="pJKXeHM" resname="header.allCategories">
+        <source>header.allCategories</source>
+        <target>Alle Kategorien</target>
+      </trans-unit>
+      <trans-unit id="pHWwGY1" resname="header.teaser">
+        <source>header.teaser</source>
+        <target>Sommer 2015 – Was ist Ihre Inspiration?</target>
+      </trans-unit>
+      <trans-unit id="7bMPyVC" resname="header.new">
+        <source>header.new</source>
+        <target>Neu</target>
+      </trans-unit>
+      <trans-unit id="ySsonYP" resname="header.sale">
+        <source>header.sale</source>
+        <target>Sale</target>
+      </trans-unit>
+      <trans-unit id="GWYurvq" resname="header.brands">
+        <source>header.brands</source>
+        <target>Marken</target>
+      </trans-unit>
+      <trans-unit id="gx8jXvq" resname="footer.paySecure">
+        <source>footer.paySecure</source>
+        <target>Sicher zahlen</target>
+      </trans-unit>
+      <trans-unit id="xU1PCEV" resname="footer.followUs">
+        <source>footer.followUs</source>
+        <target>Follow us</target>
+      </trans-unit>
+      <trans-unit id="wAiKr6z" resname="footer.joinNewsletter">
+        <source>footer.joinNewsletter</source>
+        <target>Newsletter abonnieren</target>
+      </trans-unit>
+      <trans-unit id="Lvt6Tyf" resname="footer.subscribe">
+        <source>footer.subscribe</source>
+        <target>Anmelden</target>
+      </trans-unit>
+      <trans-unit id="Lqz4PTa" resname="footer.yourEmail">
+        <source>footer.yourEmail</source>
+        <target>Ihre E-Mail-Adresse...</target>
+      </trans-unit>
+      <trans-unit id="YTfCPbw" resname="footer.customerCare">
+        <source>footer.customerCare</source>
+        <target>Kundenservice</target>
+      </trans-unit>
+      <trans-unit id="mAzCA5M" resname="footer.contactUs">
+        <source>footer.contactUs</source>
+        <target>Kontaktieren Sie uns</target>
+      </trans-unit>
+      <trans-unit id="EqzOIdZ" resname="footer.help">
+        <source>footer.help</source>
+        <target>Hilfe</target>
+      </trans-unit>
+      <trans-unit id="vrX6pRU" resname="footer.shipping">
+        <source>footer.shipping</source>
+        <target>Versand</target>
+      </trans-unit>
+      <trans-unit id="iZY_ZHp" resname="footer.returns">
+        <source>footer.returns</source>
+        <target>Retoure</target>
+      </trans-unit>
+      <trans-unit id="OCg7FZl" resname="footer.sizeGuide">
+        <source>footer.sizeGuide</source>
+        <target>Größentabelle</target>
+      </trans-unit>
+      <trans-unit id="RrEixG." resname="footer.aboutUs">
+        <source>footer.aboutUs</source>
+        <target>Über uns</target>
+      </trans-unit>
+      <trans-unit id="LbGdaiA" resname="footer.ourStory">
+        <source>footer.ourStory</source>
+        <target>Unsere Geschichte</target>
+      </trans-unit>
+      <trans-unit id="0aCSFdz" resname="footer.careers">
+        <source>footer.careers</source>
+        <target>Karriere</target>
+      </trans-unit>
+      <trans-unit id="PasOphY" resname="footer.shortcuts">
+        <source>footer.shortcuts</source>
+        <target>Shortcuts</target>
+      </trans-unit>
+      <trans-unit id="kiY6zKd" resname="footer.myAccount">
+        <source>footer.myAccount</source>
+        <target>Mein Konto</target>
+      </trans-unit>
+      <trans-unit id="QdhDsf3" resname="footer.storeLocator">
+        <source>footer.storeLocator</source>
+        <target>Filiale suchen</target>
+      </trans-unit>
+      <trans-unit id="rSkZyHf" resname="footer.giftCards">
+        <source>footer.giftCards</source>
+        <target>Geschenkkarten</target>
+      </trans-unit>
+      <trans-unit id="XF_DKmX" resname="footer.payment">
+        <source>footer.payment</source>
+        <target>Zahlung</target>
+      </trans-unit>
+      <trans-unit id="ItKecxx" resname="footer.legalInfo">
+        <source>footer.legalInfo</source>
+        <target>© 2015 Sunrise</target>
+      </trans-unit>
+      <trans-unit id="P60jr4Z" resname="footer.imprint">
+        <source>footer.imprint</source>
+        <target>Impressum</target>
+      </trans-unit>
+      <trans-unit id="9Naw8dE" resname="footer.privacyPolicy">
+        <source>footer.privacyPolicy</source>
+        <target>Datenschutz</target>
+      </trans-unit>
+      <trans-unit id="Tw_Ibas" resname="footer.termsOfUse">
+        <source>footer.termsOfUse</source>
+        <target>AGB</target>
+      </trans-unit>
+      <trans-unit id="v7Ea5Lc" resname="order.paymentStatus.title">
+        <source>order.paymentStatus.title</source>
+        <target>Payment Status</target>
+      </trans-unit>
+      <trans-unit id="XKxTfjw" resname="order.paymentStatus.balanceDue">
+        <source>order.paymentStatus.balanceDue</source>
+        <target>Balance due</target>
+      </trans-unit>
+      <trans-unit id="H1g6bz." resname="order.paymentStatus.failed">
+        <source>order.paymentStatus.failed</source>
+        <target>Failed</target>
+      </trans-unit>
+      <trans-unit id="vxh9O1E" resname="order.paymentStatus.pending">
+        <source>order.paymentStatus.pending</source>
+        <target>Pending</target>
+      </trans-unit>
+      <trans-unit id="EtYXJy5" resname="order.paymentStatus.creditOwed">
+        <source>order.paymentStatus.creditOwed</source>
+        <target>Credit owed</target>
+      </trans-unit>
+      <trans-unit id="2CdPNKP" resname="order.paymentStatus.paid">
+        <source>order.paymentStatus.paid</source>
+        <target>Paid</target>
+      </trans-unit>
+      <trans-unit id="gmrhzpV" resname="order.shippingStatus.title">
+        <source>order.shippingStatus.title</source>
+        <target>Shipping Status</target>
+      </trans-unit>
+      <trans-unit id="i7t9aWc" resname="order.shippingStatus.shipped">
+        <source>order.shippingStatus.shipped</source>
+        <target>Shipped</target>
+      </trans-unit>
+      <trans-unit id="zm2bmxi" resname="order.shippingStatus.ready">
+        <source>order.shippingStatus.ready</source>
+        <target>Ready</target>
+      </trans-unit>
+      <trans-unit id="2fVACbA" resname="order.shippingStatus.pending">
+        <source>order.shippingStatus.pending</source>
+        <target>Pending</target>
+      </trans-unit>
+      <trans-unit id="0flqtjL" resname="order.shippingStatus.partial">
+        <source>order.shippingStatus.partial</source>
+        <target>Partial</target>
+      </trans-unit>
+      <trans-unit id="VxCjQjn" resname="order.shippingStatus.backorder">
+        <source>order.shippingStatus.backorder</source>
+        <target>Backorder</target>
+      </trans-unit>
+      <trans-unit id="K40IUPk" resname="order.shippingStatus.delayed">
+        <source>order.shippingStatus.delayed</source>
+        <target>Delayed</target>
+      </trans-unit>
+      <trans-unit id="5EVeiav" resname="form.addressOne">
+        <source>form.addressOne</source>
+        <target>Adresse 1</target>
+      </trans-unit>
+      <trans-unit id="NEYIjVA" resname="form.addressTwo">
+        <source>form.addressTwo</source>
+        <target>Adresse 2</target>
+      </trans-unit>
+      <trans-unit id="VWPuenq" resname="form.apply">
+        <source>form.apply</source>
+        <target>Weiter</target>
+      </trans-unit>
+      <trans-unit id="XUsHqAd" resname="form.city">
+        <source>form.city</source>
+        <target>Stadt</target>
+      </trans-unit>
+      <trans-unit id="qm_COTU" resname="form.cancel">
+        <source>form.cancel</source>
+        <target>Abbrechen</target>
+      </trans-unit>
+      <trans-unit id="ebfwP.J" resname="form.choose">
+        <source>form.choose</source>
+        <target>Auswählen</target>
+      </trans-unit>
+      <trans-unit id="f95h2nt" resname="form.country">
+        <source>form.country</source>
+        <target>Land</target>
+      </trans-unit>
+      <trans-unit id="gvvjD2M" resname="form.edit">
+        <source>form.edit</source>
+        <target>Bearbeiten</target>
+      </trans-unit>
+      <trans-unit id="3IGOm9D" resname="form.email">
+        <source>form.email</source>
+        <target>E-Mail-Adresse</target>
+      </trans-unit>
+      <trans-unit id="iaUaQhP" resname="form.emailRequired">
+        <source>form.emailRequired</source>
+        <target>Wir benötigen Ihre E-Mail-Adresse, um Ihnen die Bestell- und Versand-Bestätigungs-E-Mails zu senden.</target>
+      </trans-unit>
+      <trans-unit id="ZUtjqDu" resname="form.delete">
+        <source>form.delete</source>
+        <target>Löschen</target>
+      </trans-unit>
+      <trans-unit id="1lKt1V6" resname="form.firstName">
+        <source>form.firstName</source>
+        <target>Vorname</target>
+      </trans-unit>
+      <trans-unit id="eRlCeGR" resname="form.formHasErrorsFlash">
+        <source>form.formHasErrorsFlash</source>
+        <target>Es ist ein Fehler aufgetreten</target>
+      </trans-unit>
+      <trans-unit id="4.GPZbC" resname="form.lastName">
+        <source>form.lastName</source>
+        <target>Nachname</target>
+      </trans-unit>
+      <trans-unit id="XaCpY8q" resname="form.month">
+        <source>form.month</source>
+        <target>Monat</target>
+      </trans-unit>
+      <trans-unit id=".gkfjnN" resname="form.personTitles.mr">
+        <source>form.personTitles.mr</source>
+        <target>Herr</target>
+      </trans-unit>
+      <trans-unit id="XpOFshh" resname="form.personTitles.mrs">
+        <source>form.personTitles.mrs</source>
+        <target>Frau</target>
+      </trans-unit>
+      <trans-unit id="CuVoMfw" resname="form.personTitles.ms">
+        <source>form.personTitles.ms</source>
+        <target>Frau</target>
+      </trans-unit>
+      <trans-unit id="YFi_dFQ" resname="form.personTitles.dr">
+        <source>form.personTitles.dr</source>
+        <target>Dr.</target>
+      </trans-unit>
+      <trans-unit id="vLNMGXN" resname="form.phone">
+        <source>form.phone</source>
+        <target>Telefon</target>
+      </trans-unit>
+      <trans-unit id="I.qnYXm" resname="form.phoneRequired">
+        <source>form.phoneRequired</source>
+        <target>Bitte geben Sie Ihre Telefonnummer an, damit der Lieferant Sie bei der Zustellung kontaktieren kann.</target>
+      </trans-unit>
+      <trans-unit id="TgR.UuX" resname="form.postCode">
+        <source>form.postCode</source>
+        <target>PLZ</target>
+      </trans-unit>
+      <trans-unit id="sZQIYIV" resname="form.region">
+        <source>form.region</source>
+        <target>Region</target>
+      </trans-unit>
+      <trans-unit id="9f1mR3D" resname="form.required">
+        <source>form.required</source>
+        <target>Pflichtfeld</target>
+      </trans-unit>
+      <trans-unit id="kohqA_C" resname="form.submit">
+        <source>form.submit</source>
+        <target>Weiter</target>
+      </trans-unit>
+      <trans-unit id="ZPgRQAU" resname="form.title">
+        <source>form.title</source>
+        <target>Titel</target>
+      </trans-unit>
+      <trans-unit id="GiV_ZMa" resname="form.year">
+        <source>form.year</source>
+        <target>Jahr</target>
+      </trans-unit>
+      <trans-unit id="fbnoD7x" resname="contactForm.pleaseFill">
+        <source>contactForm.pleaseFill</source>
+        <target>Kontaktformular ausfüllen</target>
+      </trans-unit>
+      <trans-unit id="p_mWVRR" resname="contactForm.customerSupport">
+        <source>contactForm.customerSupport</source>
+        <target>Unser Kundenservice ist rund um die Uhr für Sie bei allen Fragen zur Bestellung oder Styling Beratung erreichbar.</target>
+      </trans-unit>
+      <trans-unit id="pxcE63N" resname="contactForm.callUsOn">
+        <source>contactForm.callUsOn</source>
+        <target>Rufen Sie uns an +49 (89) 222 435 1234</target>
+      </trans-unit>
+      <trans-unit id="xUXLbia" resname="contactForm.responseTime">
+        <source>contactForm.responseTime</source>
+        <target>Wir bemühen uns Ihnen innerhalb von 24 Stunden zu antworten.</target>
+      </trans-unit>
+      <trans-unit id="qOpzMKd" resname="contactForm.message">
+        <source>contactForm.message</source>
+        <target>Nachricht</target>
+      </trans-unit>
+      <trans-unit id="6bN5Ihd" resname="forgotPasswordModal.title">
+        <source>forgotPasswordModal.title</source>
+        <target>Passwort vergessen</target>
+      </trans-unit>
+      <trans-unit id="Bhukm3N" resname="forgotPasswordModal.description">
+        <source>forgotPasswordModal.description</source>
+        <target>Geben Sie Ihre Emailadresse ein und klicken Sie auf "Passwort zurücksetzen" und wir senden Ihnen einen Link, um ein neues Passwort zu setzen.</target>
+      </trans-unit>
+      <trans-unit id="QqP0g.V" resname="storeFinder.title">
+        <source>storeFinder.title</source>
+        <target>Filiale suchen</target>
+      </trans-unit>
+      <trans-unit id="HAdIHPd" resname="storeFinder.description">
+        <source>storeFinder.description</source>
+        <target>Bitte geben Sie eine Region oder PLZ ein</target>
+      </trans-unit>
+      <trans-unit id="xGGIFIr" resname="storeFinder.postcode">
+        <source>storeFinder.postcode</source>
+        <target>PLZ</target>
+      </trans-unit>
+      <trans-unit id="yrQUql6" resname="storeFinder.lookUp">
+        <source>storeFinder.lookUp</source>
+        <target>Suchen</target>
+      </trans-unit>
+      <trans-unit id="uXB7JXK" resname="storeFinder.orRegion">
+        <source>storeFinder.orRegion</source>
+        <target>oder Region</target>
+      </trans-unit>
+      <trans-unit id="l2OjLai" resname="storeFinder.city">
+        <source>storeFinder.city</source>
+        <target>Stadt</target>
+      </trans-unit>
+      <trans-unit id="5xj8eXi" resname="storeFinder.selectRegion">
+        <source>storeFinder.selectRegion</source>
+        <target>Region auswählen</target>
+      </trans-unit>
+      <trans-unit id="fT9mUNt" resname="storeFinder.selectCity">
+        <source>storeFinder.selectCity</source>
+        <target>Stadt auswählen</target>
+      </trans-unit>
+      <trans-unit id="4UoiGZG" resname="storeFinder.address">
+        <source>storeFinder.address</source>
+        <target>Adresse</target>
+      </trans-unit>
+      <trans-unit id="ziJ.ADf" resname="storeFinder.workingHours">
+        <source>storeFinder.workingHours</source>
+        <target>Öffungszeit</target>
+      </trans-unit>
+      <trans-unit id="kLSRlbq" resname="storeFinder.addressLineOne">
+        <source>storeFinder.addressLineOne</source>
+        <target>Sunrise Street 10</target>
+      </trans-unit>
+      <trans-unit id="KFyJq5u" resname="storeFinder.addressLineTwo">
+        <source>storeFinder.addressLineTwo</source>
+        <target>Sunrise, 10116</target>
+      </trans-unit>
+      <trans-unit id="Cm38v9h" resname="storeFinder.addressLineThree">
+        <source>storeFinder.addressLineThree</source>
+        <target>Sunrise</target>
+      </trans-unit>
+      <trans-unit id="SOTw7Ay" resname="storeFinder.addressLineFour">
+        <source>storeFinder.addressLineFour</source>
+        <target>123456789123</target>
+      </trans-unit>
+      <trans-unit id="448sneV" resname="storeFinder.standartHours.title">
+        <source>storeFinder.standartHours.title</source>
+        <target>Öffungszeit</target>
+      </trans-unit>
+      <trans-unit id="r4sXsFc" resname="storeFinder.standartHours.monFri">
+        <source>storeFinder.standartHours.monFri</source>
+        <target>Montag-Freitag: 09.00 - 20.00</target>
+      </trans-unit>
+      <trans-unit id="4UTDNjG" resname="storeFinder.standartHours.weekend">
+        <source>storeFinder.standartHours.weekend</source>
+        <target>Samstag: 09.00 - 20.00</target>
+      </trans-unit>
+      <trans-unit id=".wMacaN" resname="storeFinder.holidayHours.title">
+        <source>storeFinder.holidayHours.title</source>
+        <target>Öffungszeit über die Feiertage</target>
+      </trans-unit>
+      <trans-unit id="NcGqyWb" resname="storeFinder.holidayHours.monFri">
+        <source>storeFinder.holidayHours.monFri</source>
+        <target>Montag-Freitag: 09.00 - 20.00</target>
+      </trans-unit>
+      <trans-unit id="2QN1nFl" resname="storeFinder.holidayHours.weekend">
+        <source>storeFinder.holidayHours.weekend</source>
+        <target>Samstag: 09.00 - 20.00</target>
+      </trans-unit>
+      <trans-unit id="wnLyYia" resname="storeLocation.title">
+        <source>storeLocation.title</source>
+        <target>Store location</target>
+      </trans-unit>
+      <trans-unit id="7QL5jw." resname="storeLocation.address">
+        <source>storeLocation.address</source>
+        <target>Addresse</target>
+      </trans-unit>
+      <trans-unit id="AlpzcZ5" resname="storeLocation.openingTimes">
+        <source>storeLocation.openingTimes</source>
+        <target>Öffungszeit</target>
+      </trans-unit>
+      <trans-unit id="OsU8Fff" resname="storeLocation.calculatingTxt">
+        <source>storeLocation.calculatingTxt</source>
+        <target>Berechnung...</target>
+      </trans-unit>
+      <trans-unit id="MUiKtWM" resname="storeLocation.availability.available">
+        <source>storeLocation.availability.available</source>
+        <target>verfügbar</target>
+      </trans-unit>
+      <trans-unit id="d88yc_0" resname="storeLocation.availability.notAvailable">
+        <source>storeLocation.availability.notAvailable</source>
+        <target>nicht verfügbar</target>
+      </trans-unit>
+      <trans-unit id="qvyjcj8" resname="storeLocation.availability.fewItemsLeft">
+        <source>storeLocation.availability.fewItemsLeft</source>
+        <target>wenige Artikel</target>
+      </trans-unit>
+      <trans-unit id="YVL5bae" resname="storeLocation.reserve">
+        <source>storeLocation.reserve</source>
+        <target>Reservieren</target>
+      </trans-unit>
+      <trans-unit id="WZCoVSI" resname="faq.title">
+        <source>faq.title</source>
+        <target>FAQS</target>
+      </trans-unit>
+      <trans-unit id="UjMZhCQ" resname="faq.delivery">
+        <source>faq.delivery</source>
+        <target>Versand</target>
+      </trans-unit>
+      <trans-unit id="RHlhbjt" resname="faq.returns">
+        <source>faq.returns</source>
+        <target>Retoure</target>
+      </trans-unit>
+      <trans-unit id="SEE3tBg" resname="imprint.title">
+        <source>imprint.title</source>
+        <target>Impressum</target>
+      </trans-unit>
+      <trans-unit id="yD6QXtJ" resname="content.messages.requiredField">
+        <source>content.messages.requiredField</source>
+        <target>__content.messages.requiredField</target>
+      </trans-unit>
+      <trans-unit id="x3YeWJa" resname="checkout">
+        <source>checkout</source>
+        <target>__checkout</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

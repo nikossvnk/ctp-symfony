@@ -22,5 +22,5 @@ return [
     Commercetools\Symfony\CatalogBundle\CatalogBundle::class => ['all' => true],
     Commercetools\Symfony\ExampleBundle\ExampleBundle::class => ['all' => true],
     Commercetools\Symfony\SetupBundle\SetupBundle::class => ['all' => true],
-    Commercetools\Symfony\StateBundle\StateBundle::class => ['all' => true],
+//    Commercetools\Symfony\StateBundle\StateBundle::class => ['all' => true],
 ];

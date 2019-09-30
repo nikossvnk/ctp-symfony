@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="mnjjiXD" resname="pageTitle">
+        <source>pageTitle</source>
+        <target>Kundenanmeldung</target>
+      </trans-unit>
+      <trans-unit id="CqRPZda" resname="loginBox.title">
+        <source>loginBox.title</source>
+        <target>Kundenanmeldung</target>
+      </trans-unit>
+      <trans-unit id="JfNqq0Q" resname="loginBox.required">
+        <source>loginBox.required</source>
+        <target>Pflichtfeld</target>
+      </trans-unit>
+      <trans-unit id="vfPxmEP" resname="loginBox.description">
+        <source>loginBox.description</source>
+        <target>Für einen schnelleren Checkout Prozess, melden Sie sich bitte mit Ihrem persönlichen Kundenkonto ein.</target>
+      </trans-unit>
+      <trans-unit id="NrGPS5C" resname="loginBox.email">
+        <source>loginBox.email</source>
+        <target>E-Mail</target>
+      </trans-unit>
+      <trans-unit id="Hfv3Z4z" resname="loginBox.password">
+        <source>loginBox.password</source>
+        <target>Passwort</target>
+      </trans-unit>
+      <trans-unit id="hF_kSpO" resname="loginBox.rememberMe">
+        <source>loginBox.rememberMe</source>
+        <target>Angemeldet bleiben</target>
+      </trans-unit>
+      <trans-unit id="3.fqOYi" resname="loginBox.forgotPassword">
+        <source>loginBox.forgotPassword</source>
+        <target>Passwort vergessen</target>
+      </trans-unit>
+      <trans-unit id="W4IfeuH" resname="loginBox.signIn">
+        <source>loginBox.signIn</source>
+        <target>Anmelden</target>
+      </trans-unit>
+      <trans-unit id="YinV7r4" resname="signupBox.title">
+        <source>signupBox.title</source>
+        <target>Neukunden Resigstrierung</target>
+      </trans-unit>
+      <trans-unit id=".KHWTER" resname="signupBox.required">
+        <source>signupBox.required</source>
+        <target>Pflichtfeld</target>
+      </trans-unit>
+      <trans-unit id="caD4iHW" resname="signupBox.description">
+        <source>signupBox.description</source>
+        <target>Konto einrichten, um das Shoppen noch einfacher zu machen.</target>
+      </trans-unit>
+      <trans-unit id="x3h9CQx" resname="signupBox.titleSelect">
+        <source>signupBox.titleSelect</source>
+        <target>Titel</target>
+      </trans-unit>
+      <trans-unit id="j9U4BOK" resname="signupBox.firstName">
+        <source>signupBox.firstName</source>
+        <target>Vorname</target>
+      </trans-unit>
+      <trans-unit id="9QASoYZ" resname="signupBox.secondName">
+        <source>signupBox.secondName</source>
+        <target>Nachname</target>
+      </trans-unit>
+      <trans-unit id="54x1IEc" resname="signupBox.email">
+        <source>signupBox.email</source>
+        <target>E-Mail</target>
+      </trans-unit>
+      <trans-unit id="NvgeKiS" resname="signupBox.confirmEmail">
+        <source>signupBox.confirmEmail</source>
+        <target>E-Mail bestätigen</target>
+      </trans-unit>
+      <trans-unit id="BvRqomo" resname="signupBox.password">
+        <source>signupBox.password</source>
+        <target>Passwort</target>
+      </trans-unit>
+      <trans-unit id="Br4J7Kb" resname="signupBox.confirmPassword">
+        <source>signupBox.confirmPassword</source>
+        <target>Passwort bestätigen</target>
+      </trans-unit>
+      <trans-unit id="yHJgsa6" resname="signupBox.pleaseAddMe">
+        <source>signupBox.pleaseAddMe</source>
+        <target>Anmeldung zum</target>
+      </trans-unit>
+      <trans-unit id="srQABHI" resname="signupBox.newsletter">
+        <source>signupBox.newsletter</source>
+        <target>SUNRISE Newsletter</target>
+      </trans-unit>
+      <trans-unit id="iQTKlv1" resname="signupBox.agreeTo">
+        <source>signupBox.agreeTo</source>
+        <target>Ich stimme den "" zu.</target>
+      </trans-unit>
+      <trans-unit id="7vO0gYb" resname="signupBox.termsAndConditions">
+        <source>signupBox.termsAndConditions</source>
+        <target>AGB</target>
+      </trans-unit>
+      <trans-unit id="Cb7ijJA" resname="signupBox.personalInfo">
+        <source>signupBox.personalInfo</source>
+        <target>Ihre persönliche Daten werden vertaulich behandelt.</target>
+      </trans-unit>
+      <trans-unit id="ZX6GGMD" resname="signupBox.privacyPolicy">
+        <source>signupBox.privacyPolicy</source>
+        <target>Datenschutz</target>
+      </trans-unit>
+      <trans-unit id="ewQZn.N" resname="signupBox.registerNow">
+        <source>signupBox.registerNow</source>
+        <target>Jetzt registieren</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

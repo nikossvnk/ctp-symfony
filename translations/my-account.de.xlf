@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="kSZzeam" resname="myAccount.title">
+        <source>myAccount.title</source>
+        <target>Mein Konto</target>
+      </trans-unit>
+      <trans-unit id="gWnwdz2" resname="myAccountSidebar.personalDetails">
+        <source>myAccountSidebar.personalDetails</source>
+        <target>Meine Benutzerdaten</target>
+      </trans-unit>
+      <trans-unit id="YeQOB2s" resname="myAccountSidebar.addressBook">
+        <source>myAccountSidebar.addressBook</source>
+        <target>Adressbuch</target>
+      </trans-unit>
+      <trans-unit id="UNTd3fd" resname="myAccountSidebar.paymentDetails">
+        <source>myAccountSidebar.paymentDetails</source>
+        <target>Meine Zahlungdaten</target>
+      </trans-unit>
+      <trans-unit id="6Cg7Kao" resname="myAccountSidebar.myOrders">
+        <source>myAccountSidebar.myOrders</source>
+        <target>Meine Bestellungen</target>
+      </trans-unit>
+      <trans-unit id="sLvdNiy" resname="myAccountSidebar.returnsExchange">
+        <source>myAccountSidebar.returnsExchange</source>
+        <target>Meine Retouren</target>
+      </trans-unit>
+      <trans-unit id="GGKQpFT" resname="myAccountSidebar.wishlist">
+        <source>myAccountSidebar.wishlist</source>
+        <target>Wunschliste</target>
+      </trans-unit>
+      <trans-unit id="1.lYf61" resname="myAccountSidebar.signOut">
+        <source>myAccountSidebar.signOut</source>
+        <target>Abmelden</target>
+      </trans-unit>
+      <trans-unit id="keCxvvW" resname="myAccountSidebar.changePassword">
+        <source>myAccountSidebar.changePassword</source>
+        <target>Passwort ändern</target>
+      </trans-unit>
+      <trans-unit id="kn5YSxI" resname="personalDetails.title">
+        <source>personalDetails.title</source>
+        <target>Ihre Benutzerdaten</target>
+      </trans-unit>
+      <trans-unit id="o0k6ZOG" resname="personalDetails.shopAllBtn">
+        <source>personalDetails.shopAllBtn</source>
+        <target>Alles bestellen</target>
+      </trans-unit>
+      <trans-unit id="B2iDzD0" resname="personalDetails.updateBtn">
+        <source>personalDetails.updateBtn</source>
+        <target>Details aktualisieren</target>
+      </trans-unit>
+      <trans-unit id="ddr9FxQ" resname="personalDetails.cancelBtn">
+        <source>personalDetails.cancelBtn</source>
+        <target>Abbrechen</target>
+      </trans-unit>
+      <trans-unit id="owkSjpX" resname="personalDetails.bannerOne.title">
+        <source>personalDetails.bannerOne.title</source>
+        <target>Dein Sunrise</target>
+      </trans-unit>
+      <trans-unit id="ffXVWjg" resname="personalDetails.bannerOne.subtitle">
+        <source>personalDetails.bannerOne.subtitle</source>
+        <target>Urlaub in der Sonne</target>
+      </trans-unit>
+      <trans-unit id="s4ULONe" resname="personalDetails.bannerTwo.title">
+        <source>personalDetails.bannerTwo.title</source>
+        <target>Sunrise Shop</target>
+      </trans-unit>
+      <trans-unit id="cM0VWFY" resname="personalDetails.bannerTwo.subtitle">
+        <source>personalDetails.bannerTwo.subtitle</source>
+        <target>Neue Saison, neuer Style</target>
+      </trans-unit>
+      <trans-unit id="NUIRcJ2" resname="personalDetails.welcomeBack">
+        <source>personalDetails.welcomeBack</source>
+        <target>Willkommen zurück</target>
+      </trans-unit>
+      <trans-unit id="6s.ingQ" resname="personalDetails.welcomeDescription">
+        <source>personalDetails.welcomeDescription</source>
+        <target>Für einen besseren Kundenservice geben Sie bitte Ihre Kundennummer an.</target>
+      </trans-unit>
+      <trans-unit id="2TO618M" resname="personalDetails.subscribedToNewsletter">
+        <source>personalDetails.subscribedToNewsletter</source>
+        <target>Subscribed to weekly newsletter</target>
+      </trans-unit>
+      <trans-unit id="iohTQTx" resname="personalDetails.personalDetailsForm.title">
+        <source>personalDetails.personalDetailsForm.title</source>
+        <target>Title</target>
+      </trans-unit>
+      <trans-unit id="5J0dQI6" resname="personalDetails.personalDetailsForm.firstName">
+        <source>personalDetails.personalDetailsForm.firstName</source>
+        <target>First Name</target>
+      </trans-unit>
+      <trans-unit id="6AKF8hz" resname="personalDetails.personalDetailsForm.lastName">
+        <source>personalDetails.personalDetailsForm.lastName</source>
+        <target>Last Name</target>
+      </trans-unit>
+      <trans-unit id="hy3a6kI" resname="personalDetails.personalDetailsForm.phone">
+        <source>personalDetails.personalDetailsForm.phone</source>
+        <target>Telephone Number</target>
+      </trans-unit>
+      <trans-unit id="NO_C3yv" resname="personalDetails.personalDetailsForm.email">
+        <source>personalDetails.personalDetailsForm.email</source>
+        <target>Email Address</target>
+      </trans-unit>
+      <trans-unit id="GXJsn1T" resname="personalDetails.personalDetailsForm.password">
+        <source>personalDetails.personalDetailsForm.password</source>
+        <target>Password</target>
+      </trans-unit>
+      <trans-unit id="fETqr4E" resname="personalDetails.personalDetailsForm.confirmPassword">
+        <source>personalDetails.personalDetailsForm.confirmPassword</source>
+        <target>Confirm Password</target>
+      </trans-unit>
+      <trans-unit id="RZuRegL" resname="addressBook.title">
+        <source>addressBook.title</source>
+        <target>Addressbuch</target>
+      </trans-unit>
+      <trans-unit id="dia_i6m" resname="addressBook.defaultAddresses.title">
+        <source>addressBook.defaultAddresses.title</source>
+        <target>Standard-Adressen</target>
+      </trans-unit>
+      <trans-unit id="kA_dYss" resname="addressBook.additionalAddress.title">
+        <source>addressBook.additionalAddress.title</source>
+        <target>Weitere Adressen</target>
+      </trans-unit>
+      <trans-unit id="gp9d.99" resname="addressBook.billingAddress.title">
+        <source>addressBook.billingAddress.title</source>
+        <target>Rechnungsadresse</target>
+      </trans-unit>
+      <trans-unit id="YoD6iIT" resname="addressBook.billingAddress.label">
+        <source>addressBook.billingAddress.label</source>
+        <target>Als meine Rechnungadresse verwenden</target>
+      </trans-unit>
+      <trans-unit id="1ik2i4W" resname="addressBook.shippingAddress.title">
+        <source>addressBook.shippingAddress.title</source>
+        <target>Lieferadresse</target>
+      </trans-unit>
+      <trans-unit id="vxsVtQU" resname="addressBook.shippingAddress.label">
+        <source>addressBook.shippingAddress.label</source>
+        <target>Als meine Lieferadresse verwenden</target>
+      </trans-unit>
+      <trans-unit id="SWZwtB6" resname="addressBook.buttons.saveAddressBtn">
+        <source>addressBook.buttons.saveAddressBtn</source>
+        <target>Änderungen speichern</target>
+      </trans-unit>
+      <trans-unit id="MLYn1il" resname="addressBook.buttons.cancelAddressBtn">
+        <source>addressBook.buttons.cancelAddressBtn</source>
+        <target>Abbrechen</target>
+      </trans-unit>
+      <trans-unit id="jUnHjiB" resname="addressBook.buttons.edit">
+        <source>addressBook.buttons.edit</source>
+        <target>Bearbeiten</target>
+      </trans-unit>
+      <trans-unit id="wJpoteq" resname="addressBook.buttons.delete">
+        <source>addressBook.buttons.delete</source>
+        <target>Löschen</target>
+      </trans-unit>
+      <trans-unit id="rBlSUp2" resname="addressBook.buttons.addNewAddress">
+        <source>addressBook.buttons.addNewAddress</source>
+        <target>Neue Adresse hinzufügen</target>
+      </trans-unit>
+      <trans-unit id="_HgHowz" resname="myOrders.title">
+        <source>myOrders.title</source>
+        <target>Meine Bestellungen</target>
+      </trans-unit>
+      <trans-unit id="zxvJUgz" resname="myOrders.orderNumber">
+        <source>myOrders.orderNumber</source>
+        <target>Order Number</target>
+      </trans-unit>
+      <trans-unit id="ne79v51" resname="myOrders.creationDate">
+        <source>myOrders.creationDate</source>
+        <target>Date</target>
+      </trans-unit>
+      <trans-unit id="mukqWT3" resname="myOrders.totalPrice">
+        <source>myOrders.totalPrice</source>
+        <target>Total</target>
+      </trans-unit>
+      <trans-unit id="OWqrcep" resname="myOrders.paymentStatus">
+        <source>myOrders.paymentStatus</source>
+        <target>Payment Status</target>
+      </trans-unit>
+      <trans-unit id="v4U5do5" resname="myOrders.shippingStatus">
+        <source>myOrders.shippingStatus</source>
+        <target>Shipping Status</target>
+      </trans-unit>
+      <trans-unit id="6cPL8Zb" resname="myOrders.view">
+        <source>myOrders.view</source>
+        <target>View</target>
+      </trans-unit>
+      <trans-unit id="HvYstNG" resname="myOrder.title">
+        <source>myOrder.title</source>
+        <target>Your Order Details</target>
+      </trans-unit>
+      <trans-unit id="VaF7N3G" resname="myOrder.orderNumber">
+        <source>myOrder.orderNumber</source>
+        <target>Order number</target>
+      </trans-unit>
+      <trans-unit id="_iwJ4BS" resname="myOrder.creationDate">
+        <source>myOrder.creationDate</source>
+        <target>Order date</target>
+      </trans-unit>
+      <trans-unit id="Ao3BLwp" resname="myOrder.print">
+        <source>myOrder.print</source>
+        <target>Print Receipt</target>
+      </trans-unit>
+      <trans-unit id="t9FXBBO" resname="myOrder.shippingAddress">
+        <source>myOrder.shippingAddress</source>
+        <target>Shipping Address</target>
+      </trans-unit>
+      <trans-unit id="sxndvEp" resname="myOrder.billingAddress">
+        <source>myOrder.billingAddress</source>
+        <target>Billing Address</target>
+      </trans-unit>
+      <trans-unit id="hSUZ1qp" resname="myOrder.shippingMethod">
+        <source>myOrder.shippingMethod</source>
+        <target>Shipping Method</target>
+      </trans-unit>
+      <trans-unit id="uaGDgpY" resname="myOrder.paymentDetails">
+        <source>myOrder.paymentDetails</source>
+        <target>Payment Details</target>
+      </trans-unit>
+      <trans-unit id="qJrdWwU" resname="myOrder.price.discountCode">
+        <source>myOrder.price.discountCode</source>
+        <target>Promotional Code Applied</target>
+      </trans-unit>
+      <trans-unit id="OjFS_CT" resname="myOrder.price.subtotal">
+        <source>myOrder.price.subtotal</source>
+        <target>Subtotal</target>
+      </trans-unit>
+      <trans-unit id="mGfZtc8" resname="myOrder.price.cartDiscount">
+        <source>myOrder.price.cartDiscount</source>
+        <target>Order Discount</target>
+      </trans-unit>
+      <trans-unit id="g9JEMG4" resname="myOrder.price.shipping">
+        <source>myOrder.price.shipping</source>
+        <target>Shipping</target>
+      </trans-unit>
+      <trans-unit id="FDZmRA0" resname="myOrder.price.taxes">
+        <source>myOrder.price.taxes</source>
+        <target>Sales Tax</target>
+      </trans-unit>
+      <trans-unit id="EVjm7bz" resname="myOrder.price.total">
+        <source>myOrder.price.total</source>
+        <target>Total</target>
+      </trans-unit>
+      <trans-unit id="jqvPGUO" resname="myOrder.items.productDescription">
+        <source>myOrder.items.productDescription</source>
+        <target>Description</target>
+      </trans-unit>
+      <trans-unit id="p9rTEgk" resname="myOrder.items.quantity">
+        <source>myOrder.items.quantity</source>
+        <target>Quantity</target>
+      </trans-unit>
+      <trans-unit id="Kd.agxc" resname="myOrder.items.unitPrice">
+        <source>myOrder.items.unitPrice</source>
+        <target>Price</target>
+      </trans-unit>
+      <trans-unit id="Hy7NJ_j" resname="myOrder.items.totalPrice">
+        <source>myOrder.items.totalPrice</source>
+        <target>Total</target>
+      </trans-unit>
+      <trans-unit id="Evw2x4T" resname="myWishlist.title">
+        <source>myWishlist.title</source>
+        <target>Meine Wunschliste</target>
+      </trans-unit>
+      <trans-unit id="s1KSnnT" resname="myWishlist.clear">
+        <source>myWishlist.clear</source>
+        <target>Alle löschen</target>
+      </trans-unit>
+      <trans-unit id="_3bwP1c" resname="myWishlist.itemsTotal">
+        <source>myWishlist.itemsTotal</source>
+        <target>__count__ Artikel</target>
+      </trans-unit>
+      <trans-unit id="MyrWC90" resname="myWishlist.itemsTotal_plural">
+        <source>myWishlist.itemsTotal_plural</source>
+        <target>__count__ Artikel</target>
+      </trans-unit>
+      <trans-unit id="xaV9IUL" resname="changePassword.oldPasswordLabelTxt">
+        <source>changePassword.oldPasswordLabelTxt</source>
+        <target>Aktuelles Passwort</target>
+      </trans-unit>
+      <trans-unit id="mgIkw9_" resname="changePassword.newPasswordLabelTxt">
+        <source>changePassword.newPasswordLabelTxt</source>
+        <target>Neues Passwort</target>
+      </trans-unit>
+      <trans-unit id="ya8SE2u" resname="changePassword.confirmPasswordLabelTxt">
+        <source>changePassword.confirmPasswordLabelTxt</source>
+        <target>Neues Passwort bestätigen</target>
+      </trans-unit>
+      <trans-unit id="F0_eS7K" resname="changePassword.changePasswordTitle">
+        <source>changePassword.changePasswordTitle</source>
+        <target>Passwort ändern</target>
+      </trans-unit>
+      <trans-unit id="ZTCLdde" resname="changePassword.changeBtn">
+        <source>changePassword.changeBtn</source>
+        <target>Passwort ändern</target>
+      </trans-unit>
+      <trans-unit id="CI.Bg9_" resname="changePassword.backBtn">
+        <source>changePassword.backBtn</source>
+        <target>Zurück</target>
+      </trans-unit>
+      <trans-unit id="NW7qfXD" resname="changePassword.feedbackMessage">
+        <source>changePassword.feedbackMessage</source>
+        <target>Kennwort erfolgreich geändert.</target>
+      </trans-unit>
+      <trans-unit id="eu8YCU8" resname="resetPassword.title">
+        <source>resetPassword.title</source>
+        <target>Passwort zurücksetzen</target>
+      </trans-unit>
+      <trans-unit id="phvA.qr" resname="resetPassword.newPasswordLabelTxt">
+        <source>resetPassword.newPasswordLabelTxt</source>
+        <target>Neues Passwort</target>
+      </trans-unit>
+      <trans-unit id="llcTEwz" resname="resetPassword.confirmPasswordLabelTxt">
+        <source>resetPassword.confirmPasswordLabelTxt</source>
+        <target>Neues Passwort bestätigen</target>
+      </trans-unit>
+      <trans-unit id="5.6kTQK" resname="resetPassword.resetBtn">
+        <source>resetPassword.resetBtn</source>
+        <target>Passwort zurücksetzen</target>
+      </trans-unit>
+      <trans-unit id="Gv6Y1JY" resname="resetPassword.feedbackMessage">
+        <source>resetPassword.feedbackMessage</source>
+        <target>Kennwort erfolgreich geändert.</target>
+      </trans-unit>
+      <trans-unit id="CTb.EAf" resname="forgotPassword.title">
+        <source>forgotPassword.title</source>
+        <target>Passwort vergessen</target>
+      </trans-unit>
+      <trans-unit id="ucJh_Os" resname="forgotPassword.description">
+        <source>forgotPassword.description</source>
+        <target>Geben Sie Ihre Emailadresse ein und klicken Sie auf "Passwort zurücksetzen" und wir senden Ihnen einen Link, um ein neues Passwort zu setzen.</target>
+      </trans-unit>
+      <trans-unit id="p4Ius5m" resname="forgotPassword.email.from">
+        <source>forgotPassword.email.from</source>
+        <target><![CDATA[Sunrise Team <sunrise-noreply@commercetools.com>]]></target>
+      </trans-unit>
+      <trans-unit id="GAMJbBb" resname="forgotPassword.email.subject">
+        <source>forgotPassword.email.subject</source>
+        <target>Passwort zurücksetzen</target>
+      </trans-unit>
+      <trans-unit id="hbnckPf" resname="forgotPassword.email.passwordResetTitle">
+        <source>forgotPassword.email.passwordResetTitle</source>
+        <target>Passwort zrücksetzen</target>
+      </trans-unit>
+      <trans-unit id="8gIs1rP" resname="forgotPassword.email.dearUser">
+        <source>forgotPassword.email.dearUser</source>
+        <target>Sehr geehrter</target>
+      </trans-unit>
+      <trans-unit id="sVKMo.S" resname="forgotPassword.email.passwordResetText">
+        <source>forgotPassword.email.passwordResetText</source>
+        <target>Wir haben Ihre Anfrage zum Zurücksetzen Ihres Passworts erhalten. Bitte verwenden Sie den folgenden Link um Ihr Passwort zurück zu setzen:</target>
+      </trans-unit>
+      <trans-unit id="0CJNh_l" resname="forgotPassword.email.passwordResetTextTwo">
+        <source>forgotPassword.email.passwordResetTextTwo</source>
+        <target>Bitte ignorieren Sie diese Email falls Sie Ihr Passwort nicht zurück setzen möchten.</target>
+      </trans-unit>
+      <trans-unit id="z5.Nz_R" resname="forgotPassword.email.wishes">
+        <source>forgotPassword.email.wishes</source>
+        <target>Mit freundlichen Grüssen</target>
+      </trans-unit>
+      <trans-unit id="8QcMWTK" resname="forgotPassword.email.who">
+        <source>forgotPassword.email.who</source>
+        <target>SUNRISE Customer Service Team</target>
+      </trans-unit>
+      <trans-unit id="D7MRcgZ" resname="forgotPassword.email.companyEmail">
+        <source>forgotPassword.email.companyEmail</source>
+        <target>www.sunrise.commercetools.de</target>
+      </trans-unit>
+      <trans-unit id="IoLjZjc" resname="forgotPassword.email.companyAddressOne">
+        <source>forgotPassword.email.companyAddressOne</source>
+        <target>Sunny Road 1</target>
+      </trans-unit>
+      <trans-unit id="5m2Qb5H" resname="forgotPassword.email.companyAddressTwo">
+        <source>forgotPassword.email.companyAddressTwo</source>
+        <target>23456 Sunshine</target>
+      </trans-unit>
+      <trans-unit id="8KLe_fK" resname="forgotPassword.email.companyVatNumber">
+        <source>forgotPassword.email.companyVatNumber</source>
+        <target>VAT Number 5123123151.</target>
+      </trans-unit>
+      <trans-unit id="uf9LlEf" resname="forgotPassword.email.bannerTitle">
+        <source>forgotPassword.email.bannerTitle</source>
+        <target>Frauen</target>
+      </trans-unit>
+      <trans-unit id="rXqQ7DX" resname="forgotPassword.email.bannerText">
+        <source>forgotPassword.email.bannerText</source>
+        <target>Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem</target>
+      </trans-unit>
+      <trans-unit id="LFp4LcW" resname="forgotPassword.email.bottomTextTwo">
+        <source>forgotPassword.email.bottomTextTwo</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti. Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus.</target>
+      </trans-unit>
+      <trans-unit id="cfkaOTa" resname="forgotPassword.feedbackMessage">
+        <source>forgotPassword.feedbackMessage</source>
+        <target>Eine Wiederherstellungs-E-Mail wurde gesendet, bitte überprüfen Sie Ihre E-Mail für Anweisungen zum Zurücksetzen Ihres Passworts.</target>
+      </trans-unit>
+      <trans-unit id=".vixR1." resname="personalDetails.personalDetailsForm.subscribeToNewsletter">
+        <source>personalDetails.personalDetailsForm.subscribeToNewsletter</source>
+        <target>__personalDetails.personalDetailsForm.subscribeToNewsletter</target>
+      </trans-unit>
+      <trans-unit id="rVIk83Y" resname="forgotPassword.email.companyRegistrationNumber">
+        <source>forgotPassword.email.companyRegistrationNumber</source>
+        <target>__forgotPassword.email.companyRegistrationNumber</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

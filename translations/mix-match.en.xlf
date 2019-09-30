@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="gENfxtJ" resname="mixMatch.title">
+        <source>mixMatch.title</source>
+        <target><![CDATA[Mix &amp; Match]]></target>
+      </trans-unit>
+      <trans-unit id="Q1gFba4" resname="mixMatch.description">
+        <source>mixMatch.description</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.</target>
+      </trans-unit>
+      <trans-unit id="dkrbOIp" resname="mixMatch.addProduct">
+        <source>mixMatch.addProduct</source>
+        <target>Add Product</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

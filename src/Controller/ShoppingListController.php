@@ -3,7 +3,6 @@ declare(strict_types=1);
 
 namespace App\Controller;
 
-use Commercetools\Core\Client;
 use Commercetools\Core\Model\Customer\CustomerReference;
 use Commercetools\Core\Request\Products\ProductProjectionSearchRequest;
 use Commercetools\Core\Request\ShoppingLists\Command\ShoppingListAddLineItemAction;
@@ -12,6 +11,7 @@ use Commercetools\Symfony\CtpBundle\Security\User\UserProvider;
 use Commercetools\Symfony\ShoppingListBundle\Manager\ShoppingListManager;
 use Commercetools\Symfony\ShoppingListBundle\Model\Repository\ShoppingListRepository;
 use Commercetools\Symfony\ShoppingListBundle\ShoppingListEvents;
+use GuzzleHttp\Client;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\EventDispatcher\EventDispatcherInterface;
 use Symfony\Component\HttpFoundation\RedirectResponse;
@@ -37,9 +37,8 @@ class ShoppingListController extends Controller
     /**
      * ShoppingListController constructor.
      */
-    public function __construct(Client $client, ShoppingListManager $manager)
+    public function __construct(ShoppingListManager $manager)
     {
-        $this->client = $client;
         $this->manager = $manager;
     }
 

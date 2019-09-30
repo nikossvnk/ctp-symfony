@@ -1,95 +1,95 @@
 framework:
     workflows:
-        LineItemState:
-            type: state_machine
-            audit_trail: true
-            marking_store:
-                service: Commercetools\Symfony\StateBundle\Model\CtpMarkingStore\CtpMarkingStoreLineItemState
-            supports:
-                - Commercetools\Symfony\StateBundle\Model\ItemStateWrapper
-            initial_place: OutOfStock
-            places:
-                - Initial
-                - OutOfStock
-            transitions:
-                toOutOfStock:
-                    from: Initial
-                    to: OutOfStock
-                toInitial:
-                    from: OutOfStock
-                    to: Initial
-        OrderState:
-            type: state_machine
-            audit_trail: true
-            marking_store:
-                service: Commercetools\Symfony\StateBundle\Model\CtpMarkingStore\CtpMarkingStoreOrderState
-            supports:
-                - Commercetools\Core\Model\Order\Order
-            initial_place: created
-            places:
-                - completed
-                - created
-                - paid
-                - shipped
-                - readyToShip
-                - canceled
-            transitions:
-                toCanceled:
-                    from:
-                        - created
-                        - paid
-                        - readyToShip
-                    to: canceled
-                toPaid:
-                    from: created
-                    to: paid
-                toReadyToShip:
-                    from: paid
-                    to: readyToShip
-                toCompleted:
-                    from: shipped
-                    to: completed
-                toShipped:
-                    from: readyToShip
-                    to: shipped
-                toCreated:
-                    from: canceled
-                    to: created
-        ReviewState:
-            type: state_machine
-            audit_trail: true
-            marking_store:
-                service: Commercetools\Symfony\StateBundle\Model\CtpMarkingStore\CtpMarkingStoreReviewState
-            supports:
-                - Commercetools\Core\Model\Review\Review
-            initial_place: Pending
-            places:
-                - Pending
-                - Hidden
-                - Approved
-            transitions:
-                toHidden:
-                    from:
-                        - Pending
-                        - Approved
-                    to: Hidden
-                toApproved:
-                    from:
-                        - Pending
-                        - Hidden
-                    to: Approved
-        PaymentState:
-            type: state_machine
-            audit_trail: true
-            marking_store:
-                service: Commercetools\Symfony\StateBundle\Model\CtpMarkingStore\CtpMarkingStorePaymentState
-            supports:
-                - Commercetools\Core\Model\Payment\Payment
-            initial_place: Pending-Payment
-            places:
-                - Completed
-                - Pending-Payment
-            transitions:
-                toCompleted:
-                    from: Pending-Payment
-                    to: Completed
+#        LineItemState:
+#            type: state_machine
+#            audit_trail: true
+#            marking_store:
+#                service: Commercetools\Symfony\StateBundle\Model\CtpMarkingStore\CtpMarkingStoreLineItemState
+#            supports:
+#                - Commercetools\Symfony\StateBundle\Model\ItemStateWrapper
+#            initial_place: OutOfStock
+#            places:
+#                - Initial
+#                - OutOfStock
+#            transitions:
+#                toOutOfStock:
+#                    from: Initial
+#                    to: OutOfStock
+#                toInitial:
+#                    from: OutOfStock
+#                    to: Initial
+#        OrderState:
+#            type: state_machine
+#            audit_trail: true
+#            marking_store:
+#                service: Commercetools\Symfony\StateBundle\Model\CtpMarkingStore\CtpMarkingStoreOrderState
+#            supports:
+#                - Commercetools\Core\Model\Order\Order
+#            initial_place: created
+#            places:
+#                - completed
+#                - created
+#                - paid
+#                - shipped
+#                - readyToShip
+#                - canceled
+#            transitions:
+#                toCanceled:
+#                    from:
+#                        - created
+#                        - paid
+#                        - readyToShip
+#                    to: canceled
+#                toPaid:
+#                    from: created
+#                    to: paid
+#                toReadyToShip:
+#                    from: paid
+#                    to: readyToShip
+#                toCompleted:
+#                    from: shipped
+#                    to: completed
+#                toShipped:
+#                    from: readyToShip
+#                    to: shipped
+#                toCreated:
+#                    from: canceled
+#                    to: created
+#        ReviewState:
+#            type: state_machine
+#            audit_trail: true
+#            marking_store:
+#                service: Commercetools\Symfony\StateBundle\Model\CtpMarkingStore\CtpMarkingStoreReviewState
+#            supports:
+#                - Commercetools\Core\Model\Review\Review
+#            initial_place: Pending
+#            places:
+#                - Pending
+#                - Hidden
+#                - Approved
+#            transitions:
+#                toHidden:
+#                    from:
+#                        - Pending
+#                        - Approved
+#                    to: Hidden
+#                toApproved:
+#                    from:
+#                        - Pending
+#                        - Hidden
+#                    to: Approved
+#        PaymentState:
+#            type: state_machine
+#            audit_trail: true
+#            marking_store:
+#                service: Commercetools\Symfony\StateBundle\Model\CtpMarkingStore\CtpMarkingStorePaymentState
+#            supports:
+#                - Commercetools\Core\Model\Payment\Payment
+#            initial_place: Pending-Payment
+#            places:
+#                - Completed
+#                - Pending-Payment
+#            transitions:
+#                toCompleted:
+#                    from: Pending-Payment
+#                    to: Completed

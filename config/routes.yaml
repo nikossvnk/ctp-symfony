@@ -1,6 +1,6 @@
-#index:
-#    path: /
-#    controller: App\Controller\DefaultController::index
+random:
+    path: /random
+    controller: App\Controller\CatalogController::index
 
 _example:
     resource: "@ExampleBundle/Resources/config/routing.yml"

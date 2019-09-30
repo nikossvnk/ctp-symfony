@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="tgxU11G" resname="searchNotFound.title">
+        <source>searchNotFound.title</source>
+        <target>Search Results</target>
+      </trans-unit>
+      <trans-unit id="SH.7RYp" resname="searchNotFound.notFound">
+        <source>searchNotFound.notFound</source>
+        <target>Not Found</target>
+      </trans-unit>
+      <trans-unit id="DQq9oaN" resname="searchNotFound.keyword">
+        <source>searchNotFound.keyword</source>
+        <target>zero</target>
+      </trans-unit>
+      <trans-unit id="jowXeXw" resname="searchNotFound.description">
+        <source>searchNotFound.description</source>
+        <target>Search was unable to find any results for "Batman", you may have typed your word incorrectly, or are being too specific. Try using a broader search phrase or try one of our most popular search phrases.</target>
+      </trans-unit>
+      <trans-unit id="pnzIiDv" resname="popularSearchPhrases.title">
+        <source>popularSearchPhrases.title</source>
+        <target>Popular Search Phrases</target>
+      </trans-unit>
+      <trans-unit id="PwkMeVZ" resname="popularSearchPhrases.suggestionsTitle">
+        <source>popularSearchPhrases.suggestionsTitle</source>
+        <target>Popular Products</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

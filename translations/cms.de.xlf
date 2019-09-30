@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="2xa2TUf" resname="bannerTopLeft.title">
+        <source>bannerTopLeft.title</source>
+        <target>Sommer Essentials</target>
+      </trans-unit>
+      <trans-unit id="_L49o.I" resname="bannerTopLeft.subtitle">
+        <source>bannerTopLeft.subtitle</source>
+        <target>Die wichtigsten Stücke des Sommer Trends 2016</target>
+      </trans-unit>
+      <trans-unit id="kOEUXpx" resname="bannerTopLeft.linkText">
+        <source>bannerTopLeft.linkText</source>
+        <target>Jetzt bestellen</target>
+      </trans-unit>
+      <trans-unit id="DMY0ED_" resname="bannerTopLeft.linkHref">
+        <source>bannerTopLeft.linkHref</source>
+        <target>/de/men</target>
+      </trans-unit>
+      <trans-unit id="IojB_.h" resname="bannerTopLeft.imageSmall">
+        <source>bannerTopLeft.imageSmall</source>
+        <target>./assets/bundles/example/img/cms/leather_small-4to3.jpg</target>
+      </trans-unit>
+      <trans-unit id="CmaeCeB" resname="bannerTopLeft.imageMedium">
+        <source>bannerTopLeft.imageMedium</source>
+        <target>./assets/bundles/example/img/cms/leather_medium-4to3.jpg</target>
+      </trans-unit>
+      <trans-unit id="Rc062jk" resname="bannerTopLeft.imageLarge">
+        <source>bannerTopLeft.imageLarge</source>
+        <target>./assets/bundles/example/img/cms/leather_large-4to3.jpg</target>
+      </trans-unit>
+      <trans-unit id="x8CUIYb" resname="bannerTopRight.title">
+        <source>bannerTopRight.title</source>
+        <target>Sommer Fashion</target>
+      </trans-unit>
+      <trans-unit id="AZrx2Pd" resname="bannerTopRight.subtitle">
+        <source>bannerTopRight.subtitle</source>
+        <target>Beste Outfits für die Saison</target>
+      </trans-unit>
+      <trans-unit id="z8i.6p7" resname="bannerTopRight.linkText">
+        <source>bannerTopRight.linkText</source>
+        <target>Jetzt bestellen</target>
+      </trans-unit>
+      <trans-unit id="BibkhrQ" resname="bannerTopRight.linkHref">
+        <source>bannerTopRight.linkHref</source>
+        <target>/de/women</target>
+      </trans-unit>
+      <trans-unit id="QwYRn6_" resname="bannerTopRight.imageSmall">
+        <source>bannerTopRight.imageSmall</source>
+        <target>./assets/bundles/example/img/cms/woman_small-4to3.jpg</target>
+      </trans-unit>
+      <trans-unit id="tgB75GX" resname="bannerTopRight.imageMedium">
+        <source>bannerTopRight.imageMedium</source>
+        <target>./assets/bundles/example/img/cms/woman_medium-4to3.jpg</target>
+      </trans-unit>
+      <trans-unit id="Jo79_uk" resname="bannerTopRight.imageLarge">
+        <source>bannerTopRight.imageLarge</source>
+        <target>./assets/bundles/example/img/cms/woman_large-4to3.jpg</target>
+      </trans-unit>
+      <trans-unit id="Yh_V7P5" resname="bannerMiddle.title">
+        <source>bannerMiddle.title</source>
+        <target><![CDATA[<img class="hidden-xs" src="../../assets/bundles/example/img/cms/sun-logo.png"/><br/><br/>Here comes the sun]]></target>
+      </trans-unit>
+      <trans-unit id="47HuMEV" resname="bannerMiddle.subtitle">
+        <source>bannerMiddle.subtitle</source>
+        <target>URLAUB IN DER SONNE - SOMMER CHIC</target>
+      </trans-unit>
+      <trans-unit id="gPLXzIN" resname="bannerMiddle.description">
+        <source>bannerMiddle.description</source>
+        <target><![CDATA[Die Modetrends für den Sommer 2016 spielen mit Prints, Army- und Safarilooks sowie Pastel Farben. Accessoires wie runde Sonnenbrillen, geschnürte Stiefel und Shopper oder Handtaschen sorgen für Abwechslung. SUNRISE stellt Ihnen die Fashion Trends für den Sommer 2016 vor. Lassen Sie sich inspirieren!<br/><br/>Kaum ist der Frühling vorbei, umfängt uns der warme Sommer. Erfahren Sie, was die wichtigsten Fashion - Trends der kommenden Sommersaison sind und welche traumhaften Stücke Sie besitzen sollen! London, New York, Mailand, Paris – SUNRISE präsentiert die aktuelle Sommermode 2016 aus den Modemetropolen . Die neuesten Kleider, elegante Tops, Hosen, Bademode, exklusive Schuhe und Ballerinas, bezaubernden Schmuck, Sonnenbrillen und Accessoires für den perfekten Sommer.]]></target>
+      </trans-unit>
+      <trans-unit id="z7oxFwA" resname="bannerMiddle.linkText">
+        <source>bannerMiddle.linkText</source>
+        <target>Jetzt kaufen</target>
+      </trans-unit>
+      <trans-unit id="UknckK2" resname="bannerMiddle.linkHref">
+        <source>bannerMiddle.linkHref</source>
+        <target>/de/men-clothing-shirts</target>
+      </trans-unit>
+      <trans-unit id="L23C2tH" resname="bannerMiddle.imageSmall">
+        <source>bannerMiddle.imageSmall</source>
+        <target>./assets/bundles/example/img/cms/man_small-8to3.jpg</target>
+      </trans-unit>
+      <trans-unit id=".6FQDwB" resname="bannerMiddle.imageMedium">
+        <source>bannerMiddle.imageMedium</source>
+        <target>./assets/bundles/example/img/cms/man_medium-8to3.jpg</target>
+      </trans-unit>
+      <trans-unit id="k4lNXJo" resname="bannerMiddle.imageLarge">
+        <source>bannerMiddle.imageLarge</source>
+        <target>./assets/bundles/example/img/cms/man_large-8to3.jpg</target>
+      </trans-unit>
+      <trans-unit id="Gh10UEr" resname="bannerBottomLeft.title">
+        <source>bannerBottomLeft.title</source>
+        <target>Einzigartige Stücke für jede Saison</target>
+      </trans-unit>
+      <trans-unit id="p.S7GN1" resname="bannerBottomLeft.subtitle">
+        <source>bannerBottomLeft.subtitle</source>
+        <target>Lassen Sie sich inspirieren</target>
+      </trans-unit>
+      <trans-unit id="53LrEl7" resname="bannerBottomLeft.linkText">
+        <source>bannerBottomLeft.linkText</source>
+        <target>Jetzt kaufen</target>
+      </trans-unit>
+      <trans-unit id="29sqYEz" resname="bannerBottomLeft.linkHref">
+        <source>bannerBottomLeft.linkHref</source>
+        <target>/de/women-shoes</target>
+      </trans-unit>
+      <trans-unit id="5h4_3bu" resname="bannerBottomLeft.imageSmall">
+        <source>bannerBottomLeft.imageSmall</source>
+        <target>./assets/bundles/example/img/cms/shoes_small-4to3.jpg</target>
+      </trans-unit>
+      <trans-unit id="L29kiuk" resname="bannerBottomLeft.imageMedium">
+        <source>bannerBottomLeft.imageMedium</source>
+        <target>./assets/bundles/example/img/cms/shoes_medium-4to3.jpg</target>
+      </trans-unit>
+      <trans-unit id="N_XTIy9" resname="bannerBottomLeft.imageLarge">
+        <source>bannerBottomLeft.imageLarge</source>
+        <target>./assets/bundles/example/img/cms/shoes_large-4to3.jpg</target>
+      </trans-unit>
+      <trans-unit id="5ai.OkC" resname="bannerBottomRight1.title">
+        <source>bannerBottomRight1.title</source>
+        <target><![CDATA[<img src="../../assets/bundles/example/img/cms/sun-logo.png"/><br/><br/>SOMMER MODE 2016]]></target>
+      </trans-unit>
+      <trans-unit id="0jR6itS" resname="bannerBottomRight1.imageSmall">
+        <source>bannerBottomRight1.imageSmall</source>
+        <target>./assets/bundles/example/img/cms/blue-bg_small-4to3.png</target>
+      </trans-unit>
+      <trans-unit id="mqTm4XW" resname="bannerBottomRight1.imageMedium">
+        <source>bannerBottomRight1.imageMedium</source>
+        <target>./assets/bundles/example/img/cms/blue-bg_medium-4to3.png</target>
+      </trans-unit>
+      <trans-unit id="TcMi5IJ" resname="bannerBottomRight1.imageLarge">
+        <source>bannerBottomRight1.imageLarge</source>
+        <target>./assets/bundles/example/img/cms/blue-bg_large-4to3.png</target>
+      </trans-unit>
+      <trans-unit id="qyJ7v.b" resname="bannerBottomRight2.title">
+        <source>bannerBottomRight2.title</source>
+        <target>Sonnenbrillen-Trends 2016</target>
+      </trans-unit>
+      <trans-unit id="D55niB_" resname="bannerBottomRight2.subtitle">
+        <source>bannerBottomRight2.subtitle</source>
+        <target>Unsere Fashion Must-Haves</target>
+      </trans-unit>
+      <trans-unit id="xGKVHNE" resname="bannerBottomRight2.linkText">
+        <source>bannerBottomRight2.linkText</source>
+        <target>Jetzt kaufen</target>
+      </trans-unit>
+      <trans-unit id="DGiBtmd" resname="bannerBottomRight2.linkHref">
+        <source>bannerBottomRight2.linkHref</source>
+        <target>/de/accessories-women-sunglasses</target>
+      </trans-unit>
+      <trans-unit id="0Z_SHJQ" resname="bannerBottomRight2.imageSmall">
+        <source>bannerBottomRight2.imageSmall</source>
+        <target>./assets/bundles/example/img/cms/sunglass_small-4to3.jpg</target>
+      </trans-unit>
+      <trans-unit id="c1ba9x0" resname="bannerBottomRight2.imageMedium">
+        <source>bannerBottomRight2.imageMedium</source>
+        <target>./assets/bundles/example/img/cms/sunglass_medium-4to3.jpg</target>
+      </trans-unit>
+      <trans-unit id="P06wD_v" resname="bannerBottomRight2.imageLarge">
+        <source>bannerBottomRight2.imageLarge</source>
+        <target>./assets/bundles/example/img/cms/sunglass_large-4to3.jpg</target>
+      </trans-unit>
+      <trans-unit id="JbBzX.B" resname="bannerBottomRight3.title">
+        <source>bannerBottomRight3.title</source>
+        <target>Hauptsache überdimensional</target>
+      </trans-unit>
+      <trans-unit id="2o1drQV" resname="bannerBottomRight3.subtitle">
+        <source>bannerBottomRight3.subtitle</source>
+        <target>Trendy Sommer 2016 - Auffällige Sonnenbrillen</target>
+      </trans-unit>
+      <trans-unit id="3P5f7XN" resname="bannerBottomRight3.linkText">
+        <source>bannerBottomRight3.linkText</source>
+        <target>Jetzt bestellen</target>
+      </trans-unit>
+      <trans-unit id="voL4.Oq" resname="bannerBottomRight3.linkHref">
+        <source>bannerBottomRight3.linkHref</source>
+        <target>/de/women-clothing-dresses</target>
+      </trans-unit>
+      <trans-unit id="NBI3uK7" resname="bannerBottomRight3.imageSmall">
+        <source>bannerBottomRight3.imageSmall</source>
+        <target>./assets/bundles/example/img/cms/woman_small-8to3.jpg</target>
+      </trans-unit>
+      <trans-unit id="QsgCP.X" resname="bannerBottomRight3.imageMedium">
+        <source>bannerBottomRight3.imageMedium</source>
+        <target>./assets/bundles/example/img/cms/woman_medium-8to3.jpg</target>
+      </trans-unit>
+      <trans-unit id="GrMqVse" resname="bannerBottomRight3.imageLarge">
+        <source>bannerBottomRight3.imageLarge</source>
+        <target>./assets/bundles/example/img/cms/woman_large-8to3.jpg</target>
+      </trans-unit>
+      <trans-unit id="0SPAcWU" resname="suggestions.title">
+        <source>suggestions.title</source>
+        <target>Unsere Empfehlungen</target>
+      </trans-unit>
+      <trans-unit id="P7vbE7F" resname="suggestions.subtitle">
+        <source>suggestions.subtitle</source>
+        <target>Sommer Must-Haves 2016</target>
+      </trans-unit>
+      <trans-unit id="Yj.GVdc" resname="viewProducts.linkText">
+        <source>viewProducts.linkText</source>
+        <target>Alle Produkte ansehen</target>
+      </trans-unit>
+      <trans-unit id="3Mdf9do" resname="viewProducts.linkHref">
+        <source>viewProducts.linkHref</source>
+        <target>/de/new</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

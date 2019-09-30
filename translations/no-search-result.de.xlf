@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="tgxU11G" resname="searchNotFound.title">
+        <source>searchNotFound.title</source>
+        <target>Suchergebnisse</target>
+      </trans-unit>
+      <trans-unit id="SH.7RYp" resname="searchNotFound.notFound">
+        <source>searchNotFound.notFound</source>
+        <target>Nicht gefunden</target>
+      </trans-unit>
+      <trans-unit id="DQq9oaN" resname="searchNotFound.keyword">
+        <source>searchNotFound.keyword</source>
+        <target>__searchNotFound.keyword</target>
+      </trans-unit>
+      <trans-unit id="jowXeXw" resname="searchNotFound.description">
+        <source>searchNotFound.description</source>
+        <target>Es gab leider keine Treffer für Ihre Suche nach "xxxxx". Prüfe die Schreibweise oder suche nach einem Synonym.</target>
+      </trans-unit>
+      <trans-unit id="pnzIiDv" resname="popularSearchPhrases.title">
+        <source>popularSearchPhrases.title</source>
+        <target>Häufig gesuchte Wörter</target>
+      </trans-unit>
+      <trans-unit id="PwkMeVZ" resname="popularSearchPhrases.suggestionsTitle">
+        <source>popularSearchPhrases.suggestionsTitle</source>
+        <target>Beliebte Artikel</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

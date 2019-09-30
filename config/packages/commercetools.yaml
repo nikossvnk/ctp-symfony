@@ -6,24 +6,24 @@ commercetools:
         client_id: '%env(CTP_CLIENT_ID)%'
         client_secret: '%env(CTP_CLIENT_SECRET)%'
         project: '%env(CTP_PROJECT)%'
-        scope: 'manage_project'
-        oauth_url: 'https://auth.sphere.io'
-        api_url: 'https://api.commercetools.com'
+#        scope: '%env(CTP_SCOPES)%'
+        oauth_url: '%env(CTP_AUTH_URL)%'
+        api_url: '%env(CTP_API_URL)%'
       frontend:
         client_id: 'rqZu09bO03SjWZqzlOoY3e1a'
         client_secret: '6FlbOXA6PQWIhFeYKJmLwT1DQxa_a2Gz'
         project: 'test-php-nikos-79'
-        scope: 'manage_my_profile create_anonymous_token view_project_settings manage_my_payments manage_my_shopping_lists view_products manage_my_orders'
+#        scope: 'manage_my_profile create_anonymous_token view_project_settings manage_my_payments manage_my_shopping_lists view_products manage_my_orders'
         oauth_url: 'https://auth.sphere.io'
         api_url: 'https://api.commercetools.com'
   defaults:
-    country: FR
+    country: DE
     context:
       locale: en
       graceful: true
   cache:
     cart: true
-    catalog: false
+    catalog: true
   project_settings:
     countries:
       - de
@@ -85,3 +85,24 @@ commercetools:
 #        streetName: 'down the road 30'
 ##      custom:
 ##      geoLocation:
+
+services:
+  oauthHandlerStack:
+    class: GuzzleHttp\HandlerStack
+    factory: ['GuzzleHttp\HandlerStack', 'create']
+    calls:
+      -   method: push
+          arguments:
+            - '@loggerMiddleWare'
+  loggerMiddleWare:
+      class: callable
+      factory: ['GuzzleHttp\Middleware', 'log']
+      arguments:
+        - '@logger'
+        - '@GuzzleHttp\MessageFormatter'
+  GuzzleHttp\MessageFormatter:
+
+  commercetools.oauth.client:
+      class: GuzzleHttp\Client
+      arguments:
+        - { handler: '@oauthHandlerStack'}

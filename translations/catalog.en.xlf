@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="Bgx2cQn" resname="messages.reachedMaximumQuantity">
+        <source>messages.reachedMaximumQuantity</source>
+        <target>You have reached the maximum quantity you can add to your bag</target>
+      </trans-unit>
+      <trans-unit id="4bC_d9c" resname="messages.itemAddedToCart">
+        <source>messages.itemAddedToCart</source>
+        <target>This item has been added to your bag</target>
+      </trans-unit>
+      <trans-unit id="BNQ7_hO" resname="thumbnail.sale">
+        <source>thumbnail.sale</source>
+        <target>Sale</target>
+      </trans-unit>
+      <trans-unit id="ZxsEXJp" resname="thumbnail.new">
+        <source>thumbnail.new</source>
+        <target>New</target>
+      </trans-unit>
+      <trans-unit id="e4OBLBo" resname="thumbnail.quickView">
+        <source>thumbnail.quickView</source>
+        <target>Quick view</target>
+      </trans-unit>
+      <trans-unit id="B27F9f7" resname="thumbnail.moreColors">
+        <source>thumbnail.moreColors</source>
+        <target>More colours</target>
+      </trans-unit>
+      <trans-unit id="IVJQ3Nd" resname="filters.title">
+        <source>filters.title</source>
+        <target>Filter Products</target>
+      </trans-unit>
+      <trans-unit id="i7FTcmY" resname="filters.open">
+        <source>filters.open</source>
+        <target>Filter</target>
+      </trans-unit>
+      <trans-unit id="akXoH3t" resname="filters.close">
+        <source>filters.close</source>
+        <target>Filter close</target>
+      </trans-unit>
+      <trans-unit id="zfB_wTO" resname="filters.clear">
+        <source>filters.clear</source>
+        <target>Clear</target>
+      </trans-unit>
+      <trans-unit id="jx27LPD" resname="filters.productType">
+        <source>filters.productType</source>
+        <target>Product Type</target>
+      </trans-unit>
+      <trans-unit id="DuZMEsx" resname="filters.color">
+        <source>filters.color</source>
+        <target>Color</target>
+      </trans-unit>
+      <trans-unit id="3YLe1pT" resname="filters.size">
+        <source>filters.size</source>
+        <target>Size</target>
+      </trans-unit>
+      <trans-unit id="u3OKMK1" resname="filters.brand">
+        <source>filters.brand</source>
+        <target>Brand</target>
+      </trans-unit>
+      <trans-unit id="oY4q.Zx" resname="pagination.pageSeparator">
+        <source>pagination.pageSeparator</source>
+        <target>of</target>
+      </trans-unit>
+      <trans-unit id="GfGfu0V" resname="pagination.next">
+        <source>pagination.next</source>
+        <target>Next</target>
+      </trans-unit>
+      <trans-unit id="n0vZb5s" resname="pagination.previous">
+        <source>pagination.previous</source>
+        <target>Previous</target>
+      </trans-unit>
+      <trans-unit id="6z3GKUG" resname="displaySelector.title">
+        <source>displaySelector.title</source>
+        <target>Items per page</target>
+      </trans-unit>
+      <trans-unit id="638QIBI" resname="sortSelector.title">
+        <source>sortSelector.title</source>
+        <target>Sort</target>
+      </trans-unit>
+      <trans-unit id="b030tFm" resname="sortSelector.new">
+        <source>sortSelector.new</source>
+        <target>New first</target>
+      </trans-unit>
+      <trans-unit id="dO27WsU" resname="sortSelector.priceDesc">
+        <source>sortSelector.priceDesc</source>
+        <target>Price: Descending</target>
+      </trans-unit>
+      <trans-unit id="wF2b5jX" resname="sortSelector.priceAsc">
+        <source>sortSelector.priceAsc</source>
+        <target>Price: Ascending</target>
+      </trans-unit>
+      <trans-unit id="wBNztwh" resname="ratings.text5">
+        <source>ratings.text5</source>
+        <target>5 stars</target>
+      </trans-unit>
+      <trans-unit id="tqrrB6h" resname="ratings.text4">
+        <source>ratings.text4</source>
+        <target>4 stars</target>
+      </trans-unit>
+      <trans-unit id="P9I5BhH" resname="ratings.text3">
+        <source>ratings.text3</source>
+        <target>3 stars</target>
+      </trans-unit>
+      <trans-unit id="shaPOzh" resname="ratings.text2">
+        <source>ratings.text2</source>
+        <target>2 stars</target>
+      </trans-unit>
+      <trans-unit id="jMupo_K" resname="ratings.text1">
+        <source>ratings.text1</source>
+        <target>1 star</target>
+      </trans-unit>
+      <trans-unit id="lSbQX2n" resname="ratings.description5">
+        <source>ratings.description5</source>
+        <target>Rocks!</target>
+      </trans-unit>
+      <trans-unit id="OLoMzTc" resname="ratings.description4">
+        <source>ratings.description4</source>
+        <target>Pretty good</target>
+      </trans-unit>
+      <trans-unit id="H0YBbo9" resname="ratings.description3">
+        <source>ratings.description3</source>
+        <target>Meh</target>
+      </trans-unit>
+      <trans-unit id="DQSmpMQ" resname="ratings.description2">
+        <source>ratings.description2</source>
+        <target>Kinda bad</target>
+      </trans-unit>
+      <trans-unit id="HTPkfYQ" resname="ratings.description1">
+        <source>ratings.description1</source>
+        <target>Sucks big time</target>
+      </trans-unit>
+      <trans-unit id="YySP8m9" resname="availability.available">
+        <source>availability.available</source>
+        <target>Available</target>
+      </trans-unit>
+      <trans-unit id="mqwVJBk" resname="sizeGuide.title">
+        <source>sizeGuide.title</source>
+        <target>Size Guide</target>
+      </trans-unit>
+      <trans-unit id="hxhG3vd" resname="sizeGuide.clothing">
+        <source>sizeGuide.clothing</source>
+        <target>Clothing</target>
+      </trans-unit>
+      <trans-unit id="FkOsyY9" resname="sizeGuide.shoes">
+        <source>sizeGuide.shoes</source>
+        <target>Shoes</target>
+      </trans-unit>
+      <trans-unit id="5eTmp13" resname="sizeGuide.belt">
+        <source>sizeGuide.belt</source>
+        <target>Belt</target>
+      </trans-unit>
+      <trans-unit id="XX3nNmr" resname="cart.add">
+        <source>cart.add</source>
+        <target>Add to Bag</target>
+      </trans-unit>
+      <trans-unit id="zItDrff" resname="wishlist.title">
+        <source>wishlist.title</source>
+        <target>Your Wishlist</target>
+      </trans-unit>
+      <trans-unit id="UIzvPqY" resname="wishlist.add">
+        <source>wishlist.add</source>
+        <target>Add item to wishlist</target>
+      </trans-unit>
+      <trans-unit id="fYJMZka" resname="wishlist.view">
+        <source>wishlist.view</source>
+        <target>View your wishlist</target>
+      </trans-unit>
+      <trans-unit id="h8vfJr1" resname="wishlist.recentlyAdded">
+        <source>wishlist.recentlyAdded</source>
+        <target>My recently added items</target>
+      </trans-unit>
+      <trans-unit id="19aoXA." resname="reserve.btn">
+        <source>reserve.btn</source>
+        <target>Reserve in store</target>
+      </trans-unit>
+      <trans-unit id="0SPAcWU" resname="suggestions.title">
+        <source>suggestions.title</source>
+        <target>You may also like</target>
+      </trans-unit>
+      <trans-unit id="NKmwA7t" resname="reviews.title">
+        <source>reviews.title</source>
+        <target>Reviews</target>
+      </trans-unit>
+      <trans-unit id="5APX.O1" resname="reviews.write">
+        <source>reviews.write</source>
+        <target>Write first review</target>
+      </trans-unit>
+      <trans-unit id="v7EID6V" resname="description.show">
+        <source>description.show</source>
+        <target>Show more</target>
+      </trans-unit>
+      <trans-unit id="tL0L23u" resname="description.hide">
+        <source>description.hide</source>
+        <target>Show less</target>
+      </trans-unit>
+      <trans-unit id="K3SswJC" resname="details.title">
+        <source>details.title</source>
+        <target>Product Details</target>
+      </trans-unit>
+      <trans-unit id="TZON91E" resname="delivery.title">
+        <source>delivery.title</source>
+        <target><![CDATA[Delivery & Returns]]></target>
+      </trans-unit>
+      <trans-unit id="VSCADeS" resname="delivery.freeReturns">
+        <source>delivery.freeReturns</source>
+        <target>Free return for all orders.</target>
+      </trans-unit>
+      <trans-unit id="tygD8LF" resname="delivery.moreDeliveryInfo">
+        <source>delivery.moreDeliveryInfo</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ITsUD.y" resname="searchResult.title">
+        <source>searchResult.title</source>
+        <target>Search Results</target>
+      </trans-unit>
+      <trans-unit id="ueKcjqJ" resname="searchResult.of">
+        <source>searchResult.of</source>
+        <target>of</target>
+      </trans-unit>
+      <trans-unit id="9QXgDGe" resname="searchResult.searchResultsFor">
+        <source>searchResult.searchResultsFor</source>
+        <target>Search Results for</target>
+      </trans-unit>
+      <trans-unit id="CZp7WB4" resname="searchResult.warning">
+        <source>searchResult.warning</source>
+        <target>There were no products that contained all of the words in your query. These results contain some of the words.</target>
+      </trans-unit>
+      <trans-unit id="WqjPzyG" resname="viewMore.title">
+        <source>viewMore.title</source>
+        <target>View More</target>
+      </trans-unit>
+      <trans-unit id="lE1vc9J" resname="removeBtn.title">
+        <source>removeBtn.title</source>
+        <target>Remove</target>
+      </trans-unit>
+      <trans-unit id="eCVUWTK" resname="contactUs.title">
+        <source>contactUs.title</source>
+        <target>Contact Us</target>
+      </trans-unit>
+      <trans-unit id="2IYqls7" resname="reserve.title">
+        <source>reserve.title</source>
+        <target>__reserve.title</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

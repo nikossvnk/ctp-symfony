@@ -3,3 +3,5 @@ twig:
     debug: '%kernel.debug%'
 #    strict_variables: '%kernel.debug%'
     strict_variables: false
+    globals:
+        sunrise_phone_number: '%env(SUNRISE_PHONE_NUMBER)%'

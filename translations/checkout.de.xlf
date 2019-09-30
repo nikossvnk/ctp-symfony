@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="tDO.8pL" resname="addToNewsletter">
+        <source>addToNewsletter</source>
+        <target>Bitte senden Sie mir den</target>
+      </trans-unit>
+      <trans-unit id="P9dvWrD" resname="agreeToTermsHtml">
+        <source>agreeToTermsHtml</source>
+        <target><![CDATA[Ich stimme den <a id="confirmation-termsandconditions-link" href="__url__"> <span class="terms-link">AGB</span></a> zu]]></target>
+      </trans-unit>
+      <trans-unit id="5l2NWsD" resname="billingAddress">
+        <source>billingAddress</source>
+        <target>Zahlungsadresse</target>
+      </trans-unit>
+      <trans-unit id="E9Xvp8z" resname="completeMyOrder">
+        <source>completeMyOrder</source>
+        <target>Zahlungspflichtig bestellen</target>
+      </trans-unit>
+      <trans-unit id="k83Mxm_" resname="confirmation">
+        <source>confirmation</source>
+        <target>Bestätigung</target>
+      </trans-unit>
+      <trans-unit id="k3K4_t3" resname="continueCheckout">
+        <source>continueCheckout</source>
+        <target>Weiter</target>
+      </trans-unit>
+      <trans-unit id="BWNyCgn" resname="continueShopping">
+        <source>continueShopping</source>
+        <target>Weiter einkaufen</target>
+      </trans-unit>
+      <trans-unit id="on18TnX" resname="discountApply">
+        <source>discountApply</source>
+        <target>Anwenden</target>
+      </trans-unit>
+      <trans-unit id="M_7S4Ux" resname="discountTooltip">
+        <source>discountTooltip</source>
+        <target>Weitere Rabatt Informationen...</target>
+      </trans-unit>
+      <trans-unit id="HqBRnGG" resname="discountPromoInfo">
+        <source>discountPromoInfo</source>
+        <target>Rabatte</target>
+      </trans-unit>
+      <trans-unit id="RBoJHst" resname="editMyCart">
+        <source>editMyCart</source>
+        <target>Warenkorb bearbeiten</target>
+      </trans-unit>
+      <trans-unit id="x8XDGr3" resname="itemsTotal">
+        <source>itemsTotal</source>
+        <target>__count__ Artikel im Warenkorb</target>
+      </trans-unit>
+      <trans-unit id="oRkZT8a" resname="needHelpCustomerService">
+        <source>needHelpCustomerService</source>
+        <target>Brauchen Sie Hilfe? Kundenservice</target>
+      </trans-unit>
+      <trans-unit id="tCNBGKG" resname="orderDate">
+        <source>orderDate</source>
+        <target>Bestelldatum</target>
+      </trans-unit>
+      <trans-unit id="ntZcwEc" resname="orderDiscount">
+        <source>orderDiscount</source>
+        <target>Bestelldiscount</target>
+      </trans-unit>
+      <trans-unit id="3tegKgk" resname="orderNumber">
+        <source>orderNumber</source>
+        <target>Bestellnummer</target>
+      </trans-unit>
+      <trans-unit id="IUloBae" resname="orderSummary">
+        <source>orderSummary</source>
+        <target>Bestellübersicht</target>
+      </trans-unit>
+      <trans-unit id="BA.9WSX" resname="payment">
+        <source>payment</source>
+        <target>Zahlung</target>
+      </trans-unit>
+      <trans-unit id="rY4Ox7." resname="paymentInformation">
+        <source>paymentInformation</source>
+        <target>Zahlungsdetails</target>
+      </trans-unit>
+      <trans-unit id="08946K7" resname="promoCodeApplied">
+        <source>promoCodeApplied</source>
+        <target>Gutschein eingelöst</target>
+      </trans-unit>
+      <trans-unit id="ajlA0gH" resname="returningCustomer">
+        <source>returningCustomer</source>
+        <target>Wiederkehrender Besucher</target>
+      </trans-unit>
+      <trans-unit id="oezEAtN" resname="rememberMe">
+        <source>rememberMe</source>
+        <target>Meine Daten speichern für einen Account</target>
+      </trans-unit>
+      <trans-unit id="dABiZ2o" resname="shipping">
+        <source>shipping</source>
+        <target>Versand</target>
+      </trans-unit>
+      <trans-unit id="Y8TI8j6" resname="shippingAddress">
+        <source>shippingAddress</source>
+        <target>Versandadresse</target>
+      </trans-unit>
+      <trans-unit id="IbTvVsp" resname="shippingInformation">
+        <source>shippingInformation</source>
+        <target>Versand Information</target>
+      </trans-unit>
+      <trans-unit id="1KMcHA2" resname="shippingMethod">
+        <source>shippingMethod</source>
+        <target>Versandart</target>
+      </trans-unit>
+      <trans-unit id="1ld_le_" resname="subtotal">
+        <source>subtotal</source>
+        <target>Zwischensumme</target>
+      </trans-unit>
+      <trans-unit id="ESOYctF" resname="total">
+        <source>total</source>
+        <target>Gesamtpreis</target>
+      </trans-unit>
+      <trans-unit id="Jxref3M" resname="yourBag">
+        <source>yourBag</source>
+        <target>Ihr Einkaufswagen</target>
+      </trans-unit>
+      <trans-unit id="7DV3RK1" resname="cartDetailPage.title">
+        <source>cartDetailPage.title</source>
+        <target>Ihr Einkaufswagen</target>
+      </trans-unit>
+      <trans-unit id="tHmld.m" resname="signInPage.title">
+        <source>signInPage.title</source>
+        <target>Sicherer Bestellprozess - Anmeldung</target>
+      </trans-unit>
+      <trans-unit id="OG_aNxl" resname="shippingPage.title">
+        <source>shippingPage.title</source>
+        <target>Sicherer Bestellprozess - Versand</target>
+      </trans-unit>
+      <trans-unit id="aMz_bmB" resname="shippingPage.differentBillingAddressCheckboxLabel">
+        <source>shippingPage.differentBillingAddressCheckboxLabel</source>
+        <target>Abweichende Adresse als Rechnungsadresse verwenden.</target>
+      </trans-unit>
+      <trans-unit id="SaDgers" resname="shippingPage.emailInfo">
+        <source>shippingPage.emailInfo</source>
+        <target>Bitte geben Sie Ihre E-Mail-Adresse an, damit wir Sie über den Status und Versand Ihrer Bestellung informieren können.</target>
+      </trans-unit>
+      <trans-unit id="WM5Zw0t" resname="shippingPage.telNumberInfo">
+        <source>shippingPage.telNumberInfo</source>
+        <target>Bitte geben Sie Ihre Telefonnummer an, damit unser Lieferant Sie über den Liefertermin informieren kann.</target>
+      </trans-unit>
+      <trans-unit id="DxUaUtI" resname="paymentPage.title">
+        <source>paymentPage.title</source>
+        <target>Sicherer Bestellprozess - Bezahlung</target>
+      </trans-unit>
+      <trans-unit id="KrGUqKY" resname="paymentPage.cardName">
+        <source>paymentPage.cardName</source>
+        <target>Name auf der Kreditkarte</target>
+      </trans-unit>
+      <trans-unit id="CJ6K0dP" resname="paymentPage.cardNumber">
+        <source>paymentPage.cardNumber</source>
+        <target>Kreditkartennummer</target>
+      </trans-unit>
+      <trans-unit id="FEpdqa." resname="paymentPage.expiryDateTitle">
+        <source>paymentPage.expiryDateTitle</source>
+        <target>Gültig bis</target>
+      </trans-unit>
+      <trans-unit id="y.JkY26" resname="paymentPage.paymentOptionsTitle">
+        <source>paymentPage.paymentOptionsTitle</source>
+        <target>Bitte wählen Sie eine Zahlungsart aus</target>
+      </trans-unit>
+      <trans-unit id="qKdmVy6" resname="paymentPage.securityCode">
+        <source>paymentPage.securityCode</source>
+        <target>Prüfnummer</target>
+      </trans-unit>
+      <trans-unit id="YkVGutG" resname="paymentPage.securityCodeTooltip">
+        <source>paymentPage.securityCodeTooltip</source>
+        <target>Normalerweise befindet sich der Code auf der Rückseite.</target>
+      </trans-unit>
+      <trans-unit id="xXAjyJG" resname="confirmationPage.title">
+        <source>confirmationPage.title</source>
+        <target>Sicherer Bestellprozess - Versand</target>
+      </trans-unit>
+      <trans-unit id="D_REpGB" resname="thankYouPage.title">
+        <source>thankYouPage.title</source>
+        <target>Vielen Dank für Ihre Bestellung!</target>
+      </trans-unit>
+      <trans-unit id="UdDUjSo" resname="thankYouPage.emailSentToStart">
+        <source>thankYouPage.emailSentToStart</source>
+        <target>Eine Email wurde versandt</target>
+      </trans-unit>
+      <trans-unit id="_g.WzWE" resname="thankYouPage.emailSentToEnd">
+        <source>thankYouPage.emailSentToEnd</source>
+        <target>als Bestellbestätigung.</target>
+      </trans-unit>
+      <trans-unit id="k3O772F" resname="thankYouPage.yourOrderDetails">
+        <source>thankYouPage.yourOrderDetails</source>
+        <target>Ihre Bestelldetails</target>
+      </trans-unit>
+      <trans-unit id="T9Z0heC" resname="shippingForm">
+        <source>shippingForm</source>
+        <target>__shippingForm</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

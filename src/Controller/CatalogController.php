@@ -1,14 +1,10 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: nsotiropoulos
- * Date: 13/04/2018
- * Time: 15:55
  */
 
 namespace App\Controller;
 
-use Commercetools\Core\Client;
+use GuzzleHttp\Client;
 use Commercetools\Core\Request\Products\ProductProjectionSearchRequest;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Response;
@@ -34,6 +30,7 @@ class CatalogController extends Controller
         $response = $this->client->execute($request);
         $products = $request->mapFromResponse($response);
 
-        return $this->render('some.html.twig', ['product' => var_export($products->toArray(), true)]);
+//        return $this->render('some.html.twig', ['product' => var_export($products->toArray(), true)]);
+        return $this->render('@Example/pop.html.twig', ['product' => $products]);
     }
 }

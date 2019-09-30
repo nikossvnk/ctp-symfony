@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="Bgx2cQn" resname="messages.reachedMaximumQuantity">
+        <source>messages.reachedMaximumQuantity</source>
+        <target>Sie haben die maximale Bestellmenge erreicht.</target>
+      </trans-unit>
+      <trans-unit id="4bC_d9c" resname="messages.itemAddedToCart">
+        <source>messages.itemAddedToCart</source>
+        <target>Der Artikel wurde in den Warenkorb gelegt.</target>
+      </trans-unit>
+      <trans-unit id="BNQ7_hO" resname="thumbnail.sale">
+        <source>thumbnail.sale</source>
+        <target>Sale</target>
+      </trans-unit>
+      <trans-unit id="ZxsEXJp" resname="thumbnail.new">
+        <source>thumbnail.new</source>
+        <target>Neu</target>
+      </trans-unit>
+      <trans-unit id="e4OBLBo" resname="thumbnail.quickView">
+        <source>thumbnail.quickView</source>
+        <target>Schnellansicht</target>
+      </trans-unit>
+      <trans-unit id="B27F9f7" resname="thumbnail.moreColors">
+        <source>thumbnail.moreColors</source>
+        <target>Mehr Farben</target>
+      </trans-unit>
+      <trans-unit id="IVJQ3Nd" resname="filters.title">
+        <source>filters.title</source>
+        <target>Artikel filtern</target>
+      </trans-unit>
+      <trans-unit id="i7FTcmY" resname="filters.open">
+        <source>filters.open</source>
+        <target>Filter öffnen</target>
+      </trans-unit>
+      <trans-unit id="akXoH3t" resname="filters.close">
+        <source>filters.close</source>
+        <target>Filter schließen</target>
+      </trans-unit>
+      <trans-unit id="zfB_wTO" resname="filters.clear">
+        <source>filters.clear</source>
+        <target>Alle löschen</target>
+      </trans-unit>
+      <trans-unit id="jx27LPD" resname="filters.productType">
+        <source>filters.productType</source>
+        <target>Produktart</target>
+      </trans-unit>
+      <trans-unit id="DuZMEsx" resname="filters.color">
+        <source>filters.color</source>
+        <target>Farbe</target>
+      </trans-unit>
+      <trans-unit id="3YLe1pT" resname="filters.size">
+        <source>filters.size</source>
+        <target>Größe</target>
+      </trans-unit>
+      <trans-unit id="u3OKMK1" resname="filters.brand">
+        <source>filters.brand</source>
+        <target>Marke</target>
+      </trans-unit>
+      <trans-unit id="oY4q.Zx" resname="pagination.pageSeparator">
+        <source>pagination.pageSeparator</source>
+        <target>von</target>
+      </trans-unit>
+      <trans-unit id="GfGfu0V" resname="pagination.next">
+        <source>pagination.next</source>
+        <target>Nächste</target>
+      </trans-unit>
+      <trans-unit id="n0vZb5s" resname="pagination.previous">
+        <source>pagination.previous</source>
+        <target>Zurück</target>
+      </trans-unit>
+      <trans-unit id="6z3GKUG" resname="displaySelector.title">
+        <source>displaySelector.title</source>
+        <target>Artikel pro Seite</target>
+      </trans-unit>
+      <trans-unit id="638QIBI" resname="sortSelector.title">
+        <source>sortSelector.title</source>
+        <target>Sortierung</target>
+      </trans-unit>
+      <trans-unit id="b030tFm" resname="sortSelector.new">
+        <source>sortSelector.new</source>
+        <target>Neu eingetroffen</target>
+      </trans-unit>
+      <trans-unit id="dO27WsU" resname="sortSelector.priceDesc">
+        <source>sortSelector.priceDesc</source>
+        <target>Preis absteigend</target>
+      </trans-unit>
+      <trans-unit id="wF2b5jX" resname="sortSelector.priceAsc">
+        <source>sortSelector.priceAsc</source>
+        <target>Preis aufsteigend</target>
+      </trans-unit>
+      <trans-unit id="wBNztwh" resname="ratings.text5">
+        <source>ratings.text5</source>
+        <target>5 Sterne</target>
+      </trans-unit>
+      <trans-unit id="tqrrB6h" resname="ratings.text4">
+        <source>ratings.text4</source>
+        <target>4 Sterne</target>
+      </trans-unit>
+      <trans-unit id="P9I5BhH" resname="ratings.text3">
+        <source>ratings.text3</source>
+        <target>3 Sterne</target>
+      </trans-unit>
+      <trans-unit id="shaPOzh" resname="ratings.text2">
+        <source>ratings.text2</source>
+        <target>2 Sterne</target>
+      </trans-unit>
+      <trans-unit id="jMupo_K" resname="ratings.text1">
+        <source>ratings.text1</source>
+        <target>1 Stern</target>
+      </trans-unit>
+      <trans-unit id="lSbQX2n" resname="ratings.description5">
+        <source>ratings.description5</source>
+        <target>Rocks!</target>
+      </trans-unit>
+      <trans-unit id="OLoMzTc" resname="ratings.description4">
+        <source>ratings.description4</source>
+        <target>Pretty good</target>
+      </trans-unit>
+      <trans-unit id="H0YBbo9" resname="ratings.description3">
+        <source>ratings.description3</source>
+        <target>Meh</target>
+      </trans-unit>
+      <trans-unit id="DQSmpMQ" resname="ratings.description2">
+        <source>ratings.description2</source>
+        <target>Kinda bad</target>
+      </trans-unit>
+      <trans-unit id="HTPkfYQ" resname="ratings.description1">
+        <source>ratings.description1</source>
+        <target>Sucks big time</target>
+      </trans-unit>
+      <trans-unit id="YySP8m9" resname="availability.available">
+        <source>availability.available</source>
+        <target>Verfügbar</target>
+      </trans-unit>
+      <trans-unit id="mqwVJBk" resname="sizeGuide.title">
+        <source>sizeGuide.title</source>
+        <target>Größentabelle</target>
+      </trans-unit>
+      <trans-unit id="hxhG3vd" resname="sizeGuide.clothing">
+        <source>sizeGuide.clothing</source>
+        <target>Bekleidung</target>
+      </trans-unit>
+      <trans-unit id="FkOsyY9" resname="sizeGuide.shoes">
+        <source>sizeGuide.shoes</source>
+        <target>Schuhe</target>
+      </trans-unit>
+      <trans-unit id="5eTmp13" resname="sizeGuide.belt">
+        <source>sizeGuide.belt</source>
+        <target>Gürtel</target>
+      </trans-unit>
+      <trans-unit id="XX3nNmr" resname="cart.add">
+        <source>cart.add</source>
+        <target>In den Warenkorb</target>
+      </trans-unit>
+      <trans-unit id="zItDrff" resname="wishlist.title">
+        <source>wishlist.title</source>
+        <target>Ihre Wunschliste</target>
+      </trans-unit>
+      <trans-unit id="UIzvPqY" resname="wishlist.add">
+        <source>wishlist.add</source>
+        <target>Auf den Wunschzettel</target>
+      </trans-unit>
+      <trans-unit id="fYJMZka" resname="wishlist.view">
+        <source>wishlist.view</source>
+        <target>Wunschliste ansehen</target>
+      </trans-unit>
+      <trans-unit id="h8vfJr1" resname="wishlist.recentlyAdded">
+        <source>wishlist.recentlyAdded</source>
+        <target>Zuletzt hinzugefügte Artikel</target>
+      </trans-unit>
+      <trans-unit id="lgGF2SS" resname="reserve.title.long">
+        <source>reserve.title.long</source>
+        <target>Im Shop reservieren</target>
+      </trans-unit>
+      <trans-unit id="oRLGAhk" resname="reserve.title.short">
+        <source>reserve.title.short</source>
+        <target>Reservieren</target>
+      </trans-unit>
+      <trans-unit id="0SPAcWU" resname="suggestions.title">
+        <source>suggestions.title</source>
+        <target>Das könnte Ihnen auch gefallen</target>
+      </trans-unit>
+      <trans-unit id="NKmwA7t" resname="reviews.title">
+        <source>reviews.title</source>
+        <target>Kundenbewertungen</target>
+      </trans-unit>
+      <trans-unit id="5APX.O1" resname="reviews.write">
+        <source>reviews.write</source>
+        <target>Erste Kundenbewertung schreiben</target>
+      </trans-unit>
+      <trans-unit id="v7EID6V" resname="description.show">
+        <source>description.show</source>
+        <target>Mehr</target>
+      </trans-unit>
+      <trans-unit id="tL0L23u" resname="description.hide">
+        <source>description.hide</source>
+        <target>Weniger</target>
+      </trans-unit>
+      <trans-unit id="K3SswJC" resname="details.title">
+        <source>details.title</source>
+        <target>Produktdetails</target>
+      </trans-unit>
+      <trans-unit id="TZON91E" resname="delivery.title">
+        <source>delivery.title</source>
+        <target><![CDATA[Versand & Retoure]]></target>
+      </trans-unit>
+      <trans-unit id="VSCADeS" resname="delivery.freeReturns">
+        <source>delivery.freeReturns</source>
+        <target>Kostenlose Retoure</target>
+      </trans-unit>
+      <trans-unit id="tygD8LF" resname="delivery.moreDeliveryInfo">
+        <source>delivery.moreDeliveryInfo</source>
+        <target>Versandinformationen</target>
+      </trans-unit>
+      <trans-unit id="ITsUD.y" resname="searchResult.title">
+        <source>searchResult.title</source>
+        <target>Suchergebnisse</target>
+      </trans-unit>
+      <trans-unit id="ueKcjqJ" resname="searchResult.of">
+        <source>searchResult.of</source>
+        <target>für</target>
+      </trans-unit>
+      <trans-unit id="9QXgDGe" resname="searchResult.searchResultsFor">
+        <source>searchResult.searchResultsFor</source>
+        <target>Suchergenisse für</target>
+      </trans-unit>
+      <trans-unit id="CZp7WB4" resname="searchResult.warning">
+        <source>searchResult.warning</source>
+        <target>Ihre Suche nach "" ergab leider 0 Treffer. Diese Suchergebnisse enthalten Ähnlichkeiten.</target>
+      </trans-unit>
+      <trans-unit id="WqjPzyG" resname="viewMore.title">
+        <source>viewMore.title</source>
+        <target>Mehr anzeigen</target>
+      </trans-unit>
+      <trans-unit id="lE1vc9J" resname="removeBtn.title">
+        <source>removeBtn.title</source>
+        <target>Entfernen</target>
+      </trans-unit>
+      <trans-unit id="eCVUWTK" resname="contactUs.title">
+        <source>contactUs.title</source>
+        <target>Kontaktieren Sie uns</target>
+      </trans-unit>
+      <trans-unit id="2IYqls7" resname="reserve.title">
+        <source>reserve.title</source>
+        <target>__reserve.title</target>
+      </trans-unit>
+      <trans-unit id="19aoXA." resname="reserve.btn">
+        <source>reserve.btn</source>
+        <target>__reserve.btn</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
